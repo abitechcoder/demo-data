@@ -52,6 +52,7 @@
       "name": "TechStuff",
       "description": "Founded by Alimamy Turay, TechStuff is an innovative technology company specializing in cutting-edge digital solutions to enhance business operations and consumer experiences.",
       "sector": "Tech",
+      "ownerName": "",
       "ageOfOwner": 31,
       "genderOfOwner": "Male",
       "workforceNumber": 6,
@@ -65,8 +66,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "1 Main Street, Freetown",
-      "contactDetails": "+232 701 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/TechStuff",
         "instagram": "https://instagram.com/TechStuff",
         "linkedin": "https://linkedin.com/company/TechStuff"
@@ -78,6 +84,7 @@
       "name": "CIJ Digital Hub (SL) Limited",
       "description": "Led by Chernor Issa Jalloh, CIJ Digital Hub focuses on digital innovation and transformation, providing technology-driven solutions to businesses and individuals.",
       "sector": "Tech",
+      "ownerName": "",
       "ageOfOwner": 32,
       "genderOfOwner": "Male",
       "workforceNumber": 7,
@@ -91,8 +98,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "2 Main Street, Freetown",
-      "contactDetails": "+232 702 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/CIJDigitalHub(SL)Limited",
         "instagram": "https://instagram.com/CIJDigitalHub(SL)Limited",
         "linkedin": "https://linkedin.com/company/CIJDigitalHub(SL)Limited"
@@ -104,6 +116,7 @@
       "name": "Lisa's Cake",
       "description": "Founded by Hawa Sia Mellisa Johnny, Lisa's Cakes offers a variety of delicious and high quality cakes and pastries tailored to customer preferences.",
       "sector": "Food & Agro Processing",
+      "ownerName": "",
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
       "workforceNumber": 8,
@@ -117,8 +130,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "3 Main Street, Freetown",
-      "contactDetails": "+232 703 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/Lisa'sCake",
         "instagram": "https://instagram.com/Lisa'sCake",
         "linkedin": "https://linkedin.com/company/Lisa'sCake"
@@ -130,6 +148,7 @@
       "name": "Tasty Plates",
       "description": "Managed by Olive Lisk, Tasty Plates specializes in preparing nutiritious and favorful meals, catering to diverse customer needs.",
       "sector": "Food & Agro Processing",
+      "ownerName": "",
       "ageOfOwner": 34,
       "genderOfOwner": "Male",
       "workforceNumber": 9,
@@ -143,8 +162,13 @@
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "4 Main Street, Freetown",
-      "contactDetails": "+232 704 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/TastyPlates",
         "instagram": "https://instagram.com/TastyPlates",
         "linkedin": "https://linkedin.com/company/TastyPlates"
@@ -156,6 +180,7 @@
       "name": "EcoDesign Waste",
       "description": "A sustainability-driven company focusing on waste management and recycling to reduce environmental impact through innovative recycling processes.",
       "sector": "Circular Economy",
+      "ownerName": "",
       "ageOfOwner": 35,
       "genderOfOwner": "Male",
       "workforceNumber": 10,
@@ -169,8 +194,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
       "businessAddress": "5 Main Street, Freetown",
-      "contactDetails": "+232 705 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/EcoDesignWaste",
         "instagram": "https://instagram.com/EcoDesignWaste",
         "linkedin": "https://linkedin.com/company/EcoDesignWaste"
@@ -182,6 +212,7 @@
       "name": "Textile Waste",
       "description": "An environmentally conscious business dedicated to repurposing textile materials and minimizing fabric waste in the fashion industry.",
       "sector": "Circular Economy",
+      "ownerName": "",
       "ageOfOwner": 36,
       "genderOfOwner": "Female",
       "workforceNumber": 11,
@@ -195,8 +226,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "6 Main Street, Freetown",
-      "contactDetails": "+232 706 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/TextileWaste",
         "instagram": "https://instagram.com/TextileWaste",
         "linkedin": "https://linkedin.com/company/TextileWaste"
@@ -208,6 +244,7 @@
       "name": "Vicky Couture",
       "description": "A fashion brand specializing in stylish and customized clothing, offering unique and high-quality apparel.",
       "sector": "Fashion & Beauty",
+      "ownerName": "",
       "ageOfOwner": 37,
       "genderOfOwner": "Male",
       "workforceNumber": 12,
@@ -221,141 +258,16 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "7 Main Street, Freetown",
-      "contactDetails": "+232 707 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/VickyCouture",
         "instagram": "https://instagram.com/VickyCouture",
         "linkedin": "https://linkedin.com/company/VickyCouture"
-      }
-    },
-    {
-      "id": 8,
-      "logo": "",
-      "name": "Manikene",
-      "description": "A beauty and fashion company dedicated to enhancing personal style and grooming through innovative products and services.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 38,
-      "genderOfOwner": "Male",
-      "workforceNumber": 13,
-      "workforceGenderDistribution": {
-        "male": 58,
-        "female": 42
-      },
-      "coreProductOrService": "Core offering of Manikene",
-      "yearsInOperation": 9,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "8 Main Street, Freetown",
-      "contactDetails": "+232 708 000000",
-      "socialMediaLinks": {
-        "facebook": "https://facebook.com/Manikene",
-        "instagram": "https://instagram.com/Manikene",
-        "linkedin": "https://linkedin.com/company/Manikene"
-      }
-    },
-    {
-      "id": 9,
-      "logo": "",
-      "name": "SALMAH",
-      "description": "A fashion and beauty company focusing on high-quality, trendsetting apparel and beauty solutions.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 39,
-      "genderOfOwner": "Female",
-      "workforceNumber": 14,
-      "workforceGenderDistribution": {
-        "male": 59,
-        "female": 41
-      },
-      "coreProductOrService": "Core offering of SALMAH",
-      "yearsInOperation": 10,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "9 Main Street, Freetown",
-      "contactDetails": "+232 709 000000",
-      "socialMediaLinks": {
-        "facebook": "https://facebook.com/SALMAH",
-        "instagram": "https://instagram.com/SALMAH",
-        "linkedin": "https://linkedin.com/company/SALMAH"
-      }
-    },
-    {
-      "id": 10,
-      "logo": "",
-      "name": "BOKU TOK",
-      "description": "A digital platform designed to facilitate seamless communication and engagement through innovative technology solutions.",
-      "sector": "Digital",
-      "ageOfOwner": 40,
-      "genderOfOwner": "Male",
-      "workforceNumber": 15,
-      "workforceGenderDistribution": {
-        "male": 60,
-        "female": 40
-      },
-      "coreProductOrService": "Core offering of BOKU TOK",
-      "yearsInOperation": 1,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "Yes",
-      "businessAddress": "10 Main Street, Freetown",
-      "contactDetails": "+232 710 000000",
-      "socialMediaLinks": {
-        "facebook": "https://facebook.com/BOKUTOK",
-        "instagram": "https://instagram.com/BOKUTOK",
-        "linkedin": "https://linkedin.com/company/BOKUTOK"
-      }
-    },
-    {
-      "id": 11,
-      "logo": "",
-      "name": "ICE",
-      "description": "A digital company providing advanced technology services, including software development and digital marketing.",
-      "sector": "Digital",
-      "ageOfOwner": 41,
-      "genderOfOwner": "Male",
-      "workforceNumber": 16,
-      "workforceGenderDistribution": {
-        "male": 61,
-        "female": 39
-      },
-      "coreProductOrService": "Core offering of ICE",
-      "yearsInOperation": 2,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "11 Main Street, Freetown",
-      "contactDetails": "+232 711 000000",
-      "socialMediaLinks": {
-        "facebook": "https://facebook.com/ICE",
-        "instagram": "https://instagram.com/ICE",
-        "linkedin": "https://linkedin.com/company/ICE"
-      }
-    },
-    {
-      "id": 12,
-      "logo": "",
-      "name": "Bokya",
-      "description": "A service-oriented company offering business solutions to enterprises, ensuring efficiency and growth through strategic management and consultancy.",
-      "sector": "Services",
-      "ageOfOwner": 42,
-      "genderOfOwner": "Female",
-      "workforceNumber": 17,
-      "workforceGenderDistribution": {
-        "male": 62,
-        "female": 38
-      },
-      "coreProductOrService": "Core offering of Bokya",
-      "yearsInOperation": 3,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "12 Main Street, Freetown",
-      "contactDetails": "+232 712 000000",
-      "socialMediaLinks": {
-        "facebook": "https://facebook.com/Bokya",
-        "instagram": "https://instagram.com/Bokya",
-        "linkedin": "https://linkedin.com/company/Bokya"
       }
     },
     {
@@ -377,8 +289,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "13 Main Street, Freetown",
-      "contactDetails": "+232 713 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/FambulGlobal",
         "instagram": "https://instagram.com/FambulGlobal",
         "linkedin": "https://linkedin.com/company/FambulGlobal"
@@ -403,8 +320,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "14 Main Street, Freetown",
-      "contactDetails": "+232 714 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/ComplainBox",
         "instagram": "https://instagram.com/ComplainBox",
         "linkedin": "https://linkedin.com/company/ComplainBox"
@@ -429,8 +351,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
       "businessAddress": "15 Main Street, Freetown",
-      "contactDetails": "+232 715 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/CALMATA",
         "instagram": "https://instagram.com/CALMATA",
         "linkedin": "https://linkedin.com/company/CALMATA"
@@ -455,8 +382,13 @@
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "16 Main Street, Freetown",
-      "contactDetails": "+232 716 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/Splendor'sDesign",
         "instagram": "https://instagram.com/Splendor'sDesign",
         "linkedin": "https://linkedin.com/company/Splendor'sDesign"
@@ -465,27 +397,32 @@
     {
       "id": 17,
       "logo": "",
-      "name": "Nap\u2019s Natural Hair",
-      "description": "Nap\u2019s Natural Hair is a female-owned startup specializing in processing natural products that help hair grow, glow, and be beautiful. The business is legally registered and operational. As a new entry into the hair product space, the company is looking forward to attracting funding opportunities to scale up, but more importantly to establish itself as a force to reckon with in the hair product space. This will help the business to develop structures and systems that will help the business to be sustainable and self-sufficient. This will also help the business to create jobs and increase its turnover.",
+      "name": "Nap's Natural Hair",
+      "description": "Nap’s Natural Hair is a female-owned startup specializing in processing natural products that help hair grow, glow, and be beautiful. The business is legally registered and operational. As a new entry into the hair product space, the company is looking forward to attracting funding opportunities to scale up and, more importantly, establish itself as a force to be reckoned with. This will help the business develop structures and systems that will help it be sustainable and self-sufficient. It will also help the business create jobs and increase its turnover.",
       "sector": "Fashion & Beauty",
+      "ownerName": "Sallay Sankoh",
       "ageOfOwner": 32,
-      "genderOfOwner": "Male",
-      "workforceNumber": 22,
+      "genderOfOwner": "Female",
+      "workforceNumber": 1,
       "workforceGenderDistribution": {
-        "male": 67,
-        "female": 33
+        "male": 0,
+        "female": 100
       },
-      "coreProductOrService": "Core offering of Nap\u2019s Natural Hair",
-      "yearsInOperation": 8,
+      "coreProductOrService": "Hair Products (hair butter and hair growth oil)",
+      "yearsInOperation": 2,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "17 Main Street, Freetown",
-      "contactDetails": "+232 717 000000",
+      "businessAddress": "Fourah Bay College Lower Faculty",
+      "contactDetails": {
+        "phone": "076963123",
+        "email": "ssankoh80@gmail.com"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Nap\u2019sNaturalHair",
-        "instagram": "https://instagram.com/Nap\u2019sNaturalHair",
-        "linkedin": "https://linkedin.com/company/Nap\u2019sNaturalHair"
+        "facebook": "https://www.facebook.com/share/16DwC4LFhr/",
+        "tiktok": "https://www.tiktok.com/@namsbeautyandbeyond?_t=ZM-8vTLYUiHzeR&_r=1",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -494,6 +431,7 @@
       "name": "Her Craft Innovation",
       "description": "A female-led startup focused on the recycling of old tires and empowering women through craft-making and innovation. Her Craft Innovation produces handmade products while integrating digital tools to expand market reach and streamline operations.",
       "sector": "Circular Economy",
+      "ownerName": "",
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
       "workforceNumber": 23,
@@ -501,17 +439,21 @@
         "male": 68,
         "female": 32
       },
-      "coreProductOrService": "Core offering of Her Craft Innovation",
+      "coreProductOrService": "Outdoor furniture made from old tires",
       "yearsInOperation": 9,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "18 Main Street, Freetown",
-      "contactDetails": "+232 718 000000",
+      "businessAddress": "8 Middle Street Waterloo",
+      "contactDetails": {
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/HerCraftInnovation",
-        "instagram": "https://instagram.com/HerCraftInnovation",
-        "linkedin": "https://linkedin.com/company/HerCraftInnovation"
+        "tiktok": "https://www.tiktok.com/@hercraftinnovation2?_t=ZM-8vTLkoXyz8o&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -520,6 +462,7 @@
       "name": "Millet Agricultural Service",
       "description": "A tech-driven agricultural startup that processes millet into varieties of finished products and as well supports local farmers in Sierra Leone by providing innovative solutions for millet farming, including digital tools for crop management, market access, and sustainable farming practices.",
       "sector": "Food & Agro Processing",
+      "ownerName": "",
       "ageOfOwner": 34,
       "genderOfOwner": "Male",
       "workforceNumber": 24,
@@ -527,17 +470,21 @@
         "male": 69,
         "female": 31
       },
-      "coreProductOrService": "Core offering of Millet Agricultural Service",
+      "coreProductOrService": "Processed Millet",
       "yearsInOperation": 10,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "19 Main Street, Freetown",
-      "contactDetails": "+232 719 000000",
+      "businessAddress": "Teko Road, Makeni",
+      "contactDetails": {
+        "email": "hollahmansaray777@gmail.com",
+        "phone": "076124225"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/MilletAgriculturalService",
-        "instagram": "https://instagram.com/MilletAgriculturalService",
-        "linkedin": "https://linkedin.com/company/MilletAgriculturalService"
+        "facebook": "",
+        "instagram": "https://www.instagram.com/milletagricultural?igsh=MWFkZjFxOWNxOWhkNA==",
+        "linkedin": "",
+        "tiktok": ""
       }
     },
     {
@@ -553,17 +500,21 @@
         "male": 50,
         "female": 50
       },
-      "coreProductOrService": "Core offering of Fambul Global Destination",
+      "coreProductOrService": "Traveling and Tours",
       "yearsInOperation": 1,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "20 Main Street, Freetown",
-      "contactDetails": "+232 720 000000",
+      "businessAddress": "7 Bintumani Drive, Aberdeen",
+      "contactDetails": {
+        "email": "simone.brown@gmail.com",
+        "phone": "+23290413395"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/FambulGlobalDestination",
-        "instagram": "https://instagram.com/FambulGlobalDestination",
-        "linkedin": "https://linkedin.com/company/FambulGlobalDestination"
+        "facebook": "",
+        "instagram": "https://www.instagram.com/fambulglobal?igsh=MXhzbWNxYWw1ZW5mbA==",
+        "linkedin": "",
+        "tiktok": "https://www.tiktok.com/@fambulglobal?_t=ZM-8wUKZpLqa5m&_r=1"
       }
     },
     {
@@ -579,17 +530,21 @@
         "male": 51,
         "female": 49
       },
-      "coreProductOrService": "Core offering of Wisk and Wonders",
+      "coreProductOrService": "Fresh bread and cakes",
       "yearsInOperation": 2,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "21 Main Street, Freetown",
-      "contactDetails": "+232 721 000000",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "mariamasum2002@gmail.com",
+        "phone": "+23278994453"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/WiskandWonders",
-        "instagram": "https://instagram.com/WiskandWonders",
-        "linkedin": "https://linkedin.com/company/WiskandWonders"
+        "tiktok": "http://www.tiktok.com/@wisk.and.wondersl?_t=ZM-8vTLq1QhVnr&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -605,25 +560,30 @@
         "male": 52,
         "female": 48
       },
-      "coreProductOrService": "Core offering of BS Innovative Technology",
+      "coreProductOrService": "Solar-powered refrigerators and freezers",
       "yearsInOperation": 3,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Notregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "22 Main Street, Freetown",
-      "contactDetails": "+232 722 000000",
+      "businessAddress": "FBC Football Field ",
+      "contactDetails": {
+        "email": "bsinnovativetechnology@gmail.com",
+        "phone": "+23279865192"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/BSInnovativeTechnology",
-        "instagram": "https://instagram.com/BSInnovativeTechnology",
-        "linkedin": "https://linkedin.com/company/BSInnovativeTechnology"
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "tiktok": ""
       }
     },
     {
       "id": 23,
       "logo": "",
       "name": "Bokutok TV",
-      "description": "A digital media platform that produces and streams local content, including entertainment, education, and news. Bokutok. TV aims to become Sierra Leone\u2019s leading digital media hub.",
+      "description": "A digital media platform that produces and streams local content, including entertainment, education, and news. Bokutok. TV aims to become Sierra Leone's leading digital media hub.",
       "sector": "Creative",
+      "ownerName": "Alpha Janneh",
       "ageOfOwner": 38,
       "genderOfOwner": "Male",
       "workforceNumber": 8,
@@ -631,17 +591,21 @@
         "male": 53,
         "female": 47
       },
-      "coreProductOrService": "Core offering of Bokutok TV",
+      "coreProductOrService": "Digital content, Live Streaming, and digital ads",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "23 Main Street, Freetown",
-      "contactDetails": "+232 723 000000",
+      "businessAddress": "4B Labner Street Off Fourah Bay Road",
+      "contactDetails": {
+        "email": "alghalijanneh89@gmail.com",
+        "phone": " +23277828082"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/BokutokTV",
-        "instagram": "https://instagram.com/BokutokTV",
-        "linkedin": "https://linkedin.com/company/BokutokTV"
+        "tiktok": "https://www.tiktok.com/@bokutok.tv?_t=ZM-8vTLu9uAOLn&_r=1",
+        "facebook": "https://www.facebook.com/share/18oMDdPX1N/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -651,23 +615,27 @@
       "description": "A sustainable energy startup that produces bioenergy solutions from organic waste. Greentech Bioenergy uses digital tools to optimize energy production and distribution, contributing to a greener Sierra Leone.",
       "sector": "Circular Economy",
       "ageOfOwner": 39,
-      "genderOfOwner": "Female",
+      "genderOfOwner": "Male",
       "workforceNumber": 9,
       "workforceGenderDistribution": {
         "male": 54,
         "female": 46
       },
-      "coreProductOrService": "Core offering of Greentech Bioenergy",
+      "coreProductOrService": "Biogas digester system",
       "yearsInOperation": 5,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "24 Main Street, Freetown",
-      "contactDetails": "+232 724 000000",
+      "businessAddress": "Kortright, Fourah Bay College Field",
+      "contactDetails": {
+        "email": "andrewsahrnorma@gmail.com",
+        "phone": "+23230765375"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/GreentechBioenergy",
-        "instagram": "https://instagram.com/GreentechBioenergy",
-        "linkedin": "https://linkedin.com/company/GreentechBioenergy"
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/12GLgk8893g/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -683,17 +651,21 @@
         "male": 55,
         "female": 45
       },
-      "coreProductOrService": "Core offering of Make E Happen Media Solutions",
+      "coreProductOrService": "Visual art production. Videography and audiography",
       "yearsInOperation": 6,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "25 Main Street, Freetown",
-      "contactDetails": "+232 725 000000",
+      "businessAddress": "19B Nylender Street, Aberdeen",
+      "contactDetails": {
+        "email": "guriemih@gamil.com",
+        "phone": "+23231990766"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/MakeEHappenMediaSolutions",
-        "instagram": "https://instagram.com/MakeEHappenMediaSolutions",
-        "linkedin": "https://linkedin.com/company/MakeEHappenMediaSolutions"
+        "tiktok": "https://www.tiktok.com/@makeehappenrecords?_t=ZM-8wUL4aF3ytU&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -709,17 +681,21 @@
         "male": 56,
         "female": 44
       },
-      "coreProductOrService": "Core offering of Maid4U SL",
+      "coreProductOrService": "Domestic staff and office cleaning service",
       "yearsInOperation": 7,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "26 Main Street, Freetown",
-      "contactDetails": "+232 726 000000",
+      "businessAddress": "Hill Station",
+      "contactDetails": {
+        "email": "jannehmariama04@gmail.com",
+        "phone": "+23276696853"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Maid4USL",
-        "instagram": "https://instagram.com/Maid4USL",
-        "linkedin": "https://linkedin.com/company/Maid4USL"
+        "tiktok": "https://www.tiktok.com/@maid4usl?_t=ZM-8vTMAjarJ9J&_r=1",
+        "facebook": "https://www.facebook.com/share/1EUazCZz7G/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -735,24 +711,28 @@
         "male": 57,
         "female": 43
       },
-      "coreProductOrService": "Core offering of Techstuff",
+      "coreProductOrService": "PC Hardware repair and maintenance",
       "yearsInOperation": 8,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "27 Main Street, Freetown",
-      "contactDetails": "+232 727 000000",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "kynxjones@gmail.com",
+        "phone": "+23231161206"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Techstuff",
-        "instagram": "https://instagram.com/Techstuff",
-        "linkedin": "https://linkedin.com/company/Techstuff"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
       "id": 28,
       "logo": "",
-      "name": "Amena\u2019s Couture",
-      "description": "A fashion startup specializing in bespoke clothing and accessories. Amena\u2019s Couture uses digital tools to showcase designs, manage orders, and reach a global audience.",
+      "name": "Amena's Couture",
+      "description": "A fashion startup specializing in bespoke clothing and accessories. Amena's Couture uses digital tools to showcase designs, manage orders, and reach a global audience.",
       "sector": "Fashion & Beauty",
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
@@ -761,24 +741,28 @@
         "male": 58,
         "female": 42
       },
-      "coreProductOrService": "Core offering of Amena\u2019s Couture",
+      "coreProductOrService": "Ready-to-wear and custom-made outfits",
       "yearsInOperation": 9,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "28 Main Street, Freetown",
-      "contactDetails": "+232 728 000000",
+      "businessAddress": "Old Lumley Road, Freetown",
+      "contactDetails": {
+        "email": "mariamakamara8@gmail.com",
+        "phone": "+23278242851"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Amena\u2019sCouture",
-        "instagram": "https://instagram.com/Amena\u2019sCouture",
-        "linkedin": "https://linkedin.com/company/Amena\u2019sCouture"
+        "tiktok": "https://www.tiktok.com/@amenacouture1?_t=ZM-8vwOLzC5l4P&_r=1",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/amenacouture?igsh=czB1M2I0bjQxM2s=2,000",
+        "linkedin": ""
       }
     },
     {
       "id": 29,
       "logo": "",
-      "name": "Hyacinth\u2019s Signature",
-      "description": "A luxury fashion brand that creates high-quality, culturally inspired clothing and accessories. Hyacinth\u2019s Signature leverages digital platforms to market its products and connect with fashion enthusiasts worldwide.",
+      "name": "Hyacinth's Signature",
+      "description": "A luxury fashion brand that creates high-quality, culturally inspired clothing and accessories. Hyacinth's Signature leverages digital platforms to market its products and connect with fashion enthusiasts worldwide.",
       "sector": "Creative",
       "ageOfOwner": 44,
       "genderOfOwner": "Male",
@@ -787,24 +771,28 @@
         "male": 59,
         "female": 41
       },
-      "coreProductOrService": "Core offering of Hyacinth\u2019s Signature",
+      "coreProductOrService": "Fabrics, shirts, T-shirts",
       "yearsInOperation": 10,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "29 Main Street, Freetown",
-      "contactDetails": "+232 729 000000",
+      "businessAddress": "Congo Cross",
+      "contactDetails": {
+        "email": "pauljacinta9@gmail.com",
+        "phone": "+23276654639"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Hyacinth\u2019sSignature",
-        "instagram": "https://instagram.com/Hyacinth\u2019sSignature",
-        "linkedin": "https://linkedin.com/company/Hyacinth\u2019sSignature"
+        "tiktok": "https://www.tiktok.com/@hyacinthssignatur?_t=ZM-8vTMS0sRITl&_r=1",
+        "facebook": "https://www.facebook.com/share/1B1W1ffxx1/?mibextid=wwXIfr",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
       "id": 30,
       "logo": "",
-      "name": "Vicra\u2019s Fresh Catch",
-      "description": "A seafood startup that sources and delivers fresh fish and seafood to consumers. Vicra\u2019s Fresh Catch uses digital tools to improve supply chain efficiency and ensure timely deliveries.",
+      "name": "Vicra's Fresh Catch",
+      "description": "A seafood startup that sources and delivers fresh fish and seafood to consumers. Vicra's Fresh Catch uses digital tools to improve supply chain efficiency and ensure timely deliveries.",
       "sector": "Food & Agro Processing",
       "ageOfOwner": 30,
       "genderOfOwner": "Female",
@@ -813,17 +801,21 @@
         "male": 60,
         "female": 40
       },
-      "coreProductOrService": "Core offering of Vicra\u2019s Fresh Catch",
+      "coreProductOrService": "Fresh fish (Snapper, Spanish, Tilapia)",
       "yearsInOperation": 1,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "30 Main Street, Freetown",
-      "contactDetails": "+232 730 000000",
+      "businessAddress": "Banga Farm, Peninsula Road",
+      "contactDetails": {
+        "email": "vickytaylor235@gmail.com",
+        "phone": "+23232875181"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Vicra\u2019sFreshCatch",
-        "instagram": "https://instagram.com/Vicra\u2019sFreshCatch",
-        "linkedin": "https://linkedin.com/company/Vicra\u2019sFreshCatch"
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/15FP6DgDfb/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -839,17 +831,21 @@
         "male": 61,
         "female": 39
       },
-      "coreProductOrService": "Core offering of Ecodesign Innovation SL",
+      "coreProductOrService": "Charcoal briquette",
       "yearsInOperation": 2,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "31 Main Street, Freetown",
-      "contactDetails": "+232 731 000000",
+      "businessAddress": "17 George Brook, Dwarzak",
+      "contactDetails": {
+        "email": "ecodesigninnovation16@gmail.com",
+        "phone": " +23278117172"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/EcodesignInnovationSL",
-        "instagram": "https://instagram.com/EcodesignInnovationSL",
-        "linkedin": "https://linkedin.com/company/EcodesignInnovationSL"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/ecodesign_innovationsl?igsh=am5uNjE0ZXQ4dW1l",
+        "linkedin": ""
       }
     },
     {
@@ -865,17 +861,21 @@
         "male": 62,
         "female": 38
       },
-      "coreProductOrService": "Core offering of OkRide Delivery Service",
+      "coreProductOrService": "Online buying and delivery service",
       "yearsInOperation": 3,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "32 Main Street, Freetown",
-      "contactDetails": "+232 732 000000",
+      "businessAddress": "74 Campbell Street, Freetown",
+      "contactDetails": {
+        "email": "okride.logistics@gmail.com",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/OkRideDeliveryService",
-        "instagram": "https://instagram.com/OkRideDeliveryService",
-        "linkedin": "https://linkedin.com/company/OkRideDeliveryService"
+        "facebook": "",
+        "instagram": "https://www.instagram.com/okridedelivery?igsh=NWg3emx3bDEybmd0",
+        "linkedin": "",
+        "tiktok": ""
       }
     },
     {
@@ -891,17 +891,21 @@
         "male": 63,
         "female": 37
       },
-      "coreProductOrService": "Core offering of Shades of Esther",
+      "coreProductOrService": "Manicure and Pedicure ",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "33 Main Street, Freetown",
-      "contactDetails": "+232 733 000000",
+      "businessAddress": "9 Freetown Road, Lumley",
+      "contactDetails": {
+        "email": "queenesto2020@gmail.com",
+        "phone": "+23274644993"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/ShadesofEsther",
-        "instagram": "https://instagram.com/ShadesofEsther",
-        "linkedin": "https://linkedin.com/company/ShadesofEsther"
+        "tiktok": "https://www.tiktok.com/@aprilbeautyspaltd?_t=ZM-8vTMoQrGrYN&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -917,17 +921,21 @@
         "male": 64,
         "female": 36
       },
-      "coreProductOrService": "Core offering of Manikene",
+      "coreProductOrService": "Bespoke services and ready-to-wear clothing",
       "yearsInOperation": 5,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "34 Main Street, Freetown",
-      "contactDetails": "+232 734 000000",
+      "businessAddress": "3 Conteh Drive, IMATT",
+      "contactDetails": {
+        "email": " manikene20@gmail.com",
+        "phone": "+23279591036"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Manikene",
-        "instagram": "https://instagram.com/Manikene",
-        "linkedin": "https://linkedin.com/company/Manikene"
+        "tiktok": "https://www.tiktok.com/@manikene1?_t=ZM-8vTMzC6WegQ&_r=1",
+        "facebook": "https://www.facebook.com/share/16FvBYHxos/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -943,24 +951,28 @@
         "male": 65,
         "female": 35
       },
-      "coreProductOrService": "Core offering of Textiles Waste Salone",
+      "coreProductOrService": "Recycle waste clothes and plastics  into bricks and furniture",
       "yearsInOperation": 6,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "35 Main Street, Freetown",
-      "contactDetails": "+232 735 000000",
+      "businessAddress": "69 Adelaide Street, Freetown",
+      "contactDetails": {
+        "email": "doewinifred05@gmail.com",
+        "phone": "+23275221678"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/TextilesWasteSalone",
-        "instagram": "https://instagram.com/TextilesWasteSalone",
-        "linkedin": "https://linkedin.com/company/TextilesWasteSalone"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/textiles_waste_salone?igsh=MW5lZjExbG83NjNlZQ==",
+        "linkedin": ""
       }
     },
     {
       "id": 36,
       "logo": "",
-      "name": "Salmah\u2019s Crochet",
-      "description": "Salmah\u2019s Crochet is a handmade crochet fashion brand that offers stylish high-quality crochet wear. The business is owned and managed by a female entrepreneur that operates in Sierra Leone.",
+      "name": "Salmah's Crochet",
+      "description": "Salmah's Crochet is a handmade crochet fashion brand that offers stylish high-quality crochet wear. The business is owned and managed by a female entrepreneur that operates in Sierra Leone.",
       "sector": "Creative",
       "ageOfOwner": 36,
       "genderOfOwner": "Female",
@@ -969,17 +981,21 @@
         "male": 66,
         "female": 34
       },
-      "coreProductOrService": "Core offering of Salmah\u2019s Crochet",
+      "coreProductOrService": "Beachwear, Bikinis, cover-ups, and summer sets",
       "yearsInOperation": 7,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "36 Main Street, Freetown",
-      "contactDetails": "+232 736 000000",
+      "businessAddress": "9D Gwent Height, Hillcut Road",
+      "contactDetails": {
+        "email": "salmatuhawabah@gmail.com",
+        "phone": "+23278206985"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Salmah\u2019sCrochet",
-        "instagram": "https://instagram.com/Salmah\u2019sCrochet",
-        "linkedin": "https://linkedin.com/company/Salmah\u2019sCrochet"
+        "tiktok": "https://www.tiktok.com/@salmahscrochetsl?_t=ZM-8vTQ2zN9045&_r=1",
+        "facebook": "https://facebook.com/Salmah'sCrochet",
+        "instagram": "https://instagram.com/Salmah'sCrochet",
+        "linkedin": "https://linkedin.com/company/Salmah'sCrochet"
       }
     },
     {
@@ -995,24 +1011,28 @@
         "male": 67,
         "female": 33
       },
-      "coreProductOrService": "Core offering of Tech Link Us",
+      "coreProductOrService": "Software Development, App, Website, Webmail Development",
       "yearsInOperation": 8,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "37 Main Street, Freetown",
-      "contactDetails": "+232 737 000000",
+      "businessAddress": "24 New London Road, Leicester",
+      "contactDetails": {
+        "email": " ibrahimswaray430@gmail.com",
+        "phone": "+23288804514"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/TechLinkUs",
-        "instagram": "https://instagram.com/TechLinkUs",
-        "linkedin": "https://linkedin.com/company/TechLinkUs"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
       "id": 38,
       "logo": "",
-      "name": "Vicky\u2019s Couture",
-      "description": "Vicky\u2019s Couture is crafted with purpose and made in Salone. We create high-quality, sustainable pieces that empower and express your unique style.",
+      "name": "Vicky's Couture",
+      "description": "Vicky's Couture is crafted with purpose and made in Salone. We create high-quality, sustainable pieces that empower and express your unique style.",
       "sector": "Fashion & Beauty",
       "ageOfOwner": 38,
       "genderOfOwner": "Male",
@@ -1021,17 +1041,21 @@
         "male": 68,
         "female": 32
       },
-      "coreProductOrService": "Core offering of Vicky\u2019s Couture",
+      "coreProductOrService": "Tailoring",
       "yearsInOperation": 9,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "38 Main Street, Freetown",
-      "contactDetails": "+232 738 000000",
+      "businessAddress": "21 Hill Cot Road, Freetown, Sierra Leone",
+      "contactDetails": {
+        "email": "victoriaconteh21@gmail.com",
+        "phone": "079092103"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Vicky\u2019sCouture",
-        "instagram": "https://instagram.com/Vicky\u2019sCouture",
-        "linkedin": "https://linkedin.com/company/Vicky\u2019sCouture"
+        "tiktok": "https://www.tiktok.com/@vickyscouture..16?_t=ZM-8vTNAye3TRW&_r=1",
+        "facebook": "https://www.facebook.com/share/16FsW4VSFs/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1053,8 +1077,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "39 Main Street, Freetown",
-      "contactDetails": "+232 739 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/EstamosSewing",
         "instagram": "https://instagram.com/EstamosSewing",
         "linkedin": "https://linkedin.com/company/EstamosSewing"
@@ -1073,17 +1102,21 @@
         "male": 50,
         "female": 50
       },
-      "coreProductOrService": "Core offering of J&F Eritej",
+      "coreProductOrService": "Tailoring & Couture",
       "yearsInOperation": 1,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "40 Main Street, Freetown",
-      "contactDetails": "+232 740 000000",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": "078922779"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/J&FEritej",
-        "instagram": "https://instagram.com/J&FEritej",
-        "linkedin": "https://linkedin.com/company/J&FEritej"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1099,17 +1132,21 @@
         "male": 51,
         "female": 49
       },
-      "coreProductOrService": "Core offering of Nicosta Initiative",
+      "coreProductOrService": "Bags, bracelets, decorative materials, etc",
       "yearsInOperation": 2,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "41 Main Street, Freetown",
-      "contactDetails": "+232 741 000000",
+      "businessAddress": "Lordep Jui Freetown",
+      "contactDetails": {
+        "email": "Kamaraphatmataosman@gmail.com",
+        "phone": "088186502"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/NicostaInitiative",
-        "instagram": "https://instagram.com/NicostaInitiative",
-        "linkedin": "https://linkedin.com/company/NicostaInitiative"
+        "tiktok": "https://www.tiktok.com/@nicosta.initiativ?_t=ZM-8vwQWFuipzp&_r=1",
+        "facebook": "https://www.facebook.com/share/v/1APup84fZm/?mibextid=wwXIfr",
+        "instagram": "https://www.instagram.com/nicostainitiative?igsh=MXV6NjRvemQwdDdkNw==",
+        "linkedin": ""
       }
     },
     {
@@ -1125,17 +1162,21 @@
         "male": 52,
         "female": 48
       },
-      "coreProductOrService": "Core offering of Soles & Sparkles",
+      "coreProductOrService": "Leather footwear",
       "yearsInOperation": 3,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "42 Main Street, Freetown",
-      "contactDetails": "+232 742 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "email": "",
+        "phone": "074219239"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Soles&Sparkles",
-        "instagram": "https://instagram.com/Soles&Sparkles",
-        "linkedin": "https://linkedin.com/company/Soles&Sparkles"
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/15zUn9bXd3/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1151,17 +1192,21 @@
         "male": 53,
         "female": 47
       },
-      "coreProductOrService": "Core offering of Kujuls Naturals",
+      "coreProductOrService": "Body and hair products",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "43 Main Street, Freetown",
-      "contactDetails": "+232 743 000000",
+      "businessAddress": "Mack Pharmacy Lumley Freetown S.L",
+      "contactDetails": {
+        "email": "aminamanty7210@gmail.com",
+        "phone": "079666623"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/KujulsNaturals",
-        "instagram": "https://instagram.com/KujulsNaturals",
-        "linkedin": "https://linkedin.com/company/KujulsNaturals"
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/1Fpw7ujVHC/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1177,17 +1222,21 @@
         "male": 54,
         "female": 46
       },
-      "coreProductOrService": "Core offering of Shea & More Naturals",
+      "coreProductOrService": "Hair and beauty products",
       "yearsInOperation": 5,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "44 Main Street, Freetown",
-      "contactDetails": "+232 744 000000",
+      "businessAddress": "16 Aberdeen ferry road, Freetown, Sierra Leone",
+      "contactDetails": {
+        "email": "Dalandamassally2@gmail.com",
+        "phone": "079685786"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Shea&MoreNaturals",
-        "instagram": "https://instagram.com/Shea&MoreNaturals",
-        "linkedin": "https://linkedin.com/company/Shea&MoreNaturals"
+        "tiktok": "https://www.tiktok.com/@sheaandmorenaturals?_t=ZM-8vTQ6tPrLcd&_r=1",
+        "facebook": "https://www.facebook.com/share/16N1m2tPeK/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1203,17 +1252,21 @@
         "male": 55,
         "female": 45
       },
-      "coreProductOrService": "Core offering of Ofino Natural",
+      "coreProductOrService": "Hair and body products",
       "yearsInOperation": 6,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "45 Main Street, Freetown",
-      "contactDetails": "+232 745 000000",
+      "businessAddress": "3 Peninsula Road, Adonkia, Freetown, Sierra Leone",
+      "contactDetails": {
+        "email": "joeafromeric@gmail.com",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/OfinoNatural",
-        "instagram": "https://instagram.com/OfinoNatural",
-        "linkedin": "https://linkedin.com/company/OfinoNatural"
+        "tiktok": "https://www.tiktok.com/@ofinonatural?_t=ZM-8vTPoMAs23J&_r=1",
+        "facebook": "https://www.facebook.com/share/12MSMKqXE7i/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1235,8 +1288,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "46 Main Street, Freetown",
-      "contactDetails": "+232 746 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/QueenestOrganicHerbal",
         "instagram": "https://instagram.com/QueenestOrganicHerbal",
         "linkedin": "https://linkedin.com/company/QueenestOrganicHerbal"
@@ -1246,7 +1304,7 @@
       "id": 47,
       "logo": "",
       "name": "Whispers From Salone",
-      "description": "At \u201cWhispers From Salone\u201d our Vision is to celebrate the beauty of art, culture, and sustainability. Our artistic souvenirs not only capture the essence of our nation\u2019s rich heritage but also embody our commitment to environmental consciousness.",
+      "description": "At 'Whispers From Salone' our Vision is to celebrate the beauty of art, culture, and sustainability. Our artistic souvenirs not only capture the essence of our nation's rich heritage but also embody our commitment to environmental consciousness.",
       "sector": "Creative",
       "ageOfOwner": 32,
       "genderOfOwner": "Male",
@@ -1255,24 +1313,28 @@
         "male": 57,
         "female": 43
       },
-      "coreProductOrService": "Core offering of Whispers From Salone",
+      "coreProductOrService": "Krio Coloring books (handmade and recycled art)",
       "yearsInOperation": 8,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "47 Main Street, Freetown",
-      "contactDetails": "+232 747 000000",
+      "businessAddress": "Wilkinson road",
+      "contactDetails": {
+        "email": "Zatofakih@gmail.com",
+        "phone": "099444449"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/WhispersFromSalone",
-        "instagram": "https://instagram.com/WhispersFromSalone",
-        "linkedin": "https://linkedin.com/company/WhispersFromSalone"
+        "tiktok": "https://www.tiktok.com/@whispers.from.salone?_t=ZM-8vTPyVShiIZ&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
       "id": 48,
       "logo": "",
       "name": "Nina's Coffee",
-      "description": "Nina's Coffee comes from Yekebema in Sierra Leone\u2019s Kono District, where the tropical climate enriches the soil. It is crafted with love, using small-batch roasting techniques. This process, accompanied by music, results in a unique and rich flavor profile.",
+      "description": "Nina's Coffee comes from Yekebema in Sierra Leone's Kono District, where the tropical climate enriches the soil. It is crafted with love, using small-batch roasting techniques. This process, accompanied by music, results in a unique and rich flavor profile.",
       "sector": "Food & Agro Processing",
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
@@ -1281,24 +1343,28 @@
         "male": 58,
         "female": 42
       },
-      "coreProductOrService": "Core offering of Nina's Coffee",
+      "coreProductOrService": "Beverage",
       "yearsInOperation": 9,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "48 Main Street, Freetown",
-      "contactDetails": "+232 748 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "email": "",
+        "phone": "076627514"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Nina'sCoffee",
-        "instagram": "https://instagram.com/Nina'sCoffee",
-        "linkedin": "https://linkedin.com/company/Nina'sCoffee"
+        "tiktok": "https://www.tiktok.com/@ninascoffeelove20?_t=ZM-8vTPSKiLXpG&_r=1",
+        "facebook": "https://www.facebook.com/share/17iYH5BAsV/",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
       "id": 49,
       "logo": "",
-      "name": "Lyly\u2019s Eats",
-      "description": "Lyly\u2019s Eats is a female-owned catering service startup established in  2021. the business specializes in preparing home-cooked food, especially local dishes and snacks.",
+      "name": "Lyly's Eats",
+      "description": "Lyly's Eats is a female-owned catering service startup established in  2021. the business specializes in preparing home-cooked food, especially local dishes and snacks.",
       "sector": "Tourism",
       "ageOfOwner": 34,
       "genderOfOwner": "Male",
@@ -1307,17 +1373,22 @@
         "male": 59,
         "female": 41
       },
-      "coreProductOrService": "Core offering of Lyly\u2019s Eats",
+      "coreProductOrService": "Core offering of Lyly's Eats",
       "yearsInOperation": 10,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "49 Main Street, Freetown",
-      "contactDetails": "+232 749 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Lyly\u2019sEats",
-        "instagram": "https://instagram.com/Lyly\u2019sEats",
-        "linkedin": "https://linkedin.com/company/Lyly\u2019sEats"
+        "tiktok": "",
+        "facebook": "https://facebook.com/Lyly'sEats",
+        "instagram": "https://instagram.com/Lyly'sEats",
+        "linkedin": "https://linkedin.com/company/Lyly'sEats"
       }
     },
     {
@@ -1339,8 +1410,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
       "businessAddress": "50 Main Street, Freetown",
-      "contactDetails": "+232 750 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/LyoaSourcedCompanyLtd",
         "instagram": "https://instagram.com/LyoaSourcedCompanyLtd",
         "linkedin": "https://linkedin.com/company/LyoaSourcedCompanyLtd"
@@ -1365,8 +1441,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "51 Main Street, Freetown",
-      "contactDetails": "+232 751 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/CraftyBee",
         "instagram": "https://instagram.com/CraftyBee",
         "linkedin": "https://linkedin.com/company/CraftyBee"
@@ -1391,8 +1472,13 @@
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "52 Main Street, Freetown",
-      "contactDetails": "+232 752 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/OrkosuOrganicHerbalTeas",
         "instagram": "https://instagram.com/OrkosuOrganicHerbalTeas",
         "linkedin": "https://linkedin.com/company/OrkosuOrganicHerbalTeas"
@@ -1417,8 +1503,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "53 Main Street, Freetown",
-      "contactDetails": "+232 753 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/MamaLu",
         "instagram": "https://instagram.com/MamaLu",
         "linkedin": "https://linkedin.com/company/MamaLu"
@@ -1432,22 +1523,27 @@
       "sector": "Fashion & Beauty",
       "ageOfOwner": 39,
       "genderOfOwner": "Female",
-      "workforceNumber": 19,
+      "workforceNumber": 12,
       "workforceGenderDistribution": {
-        "male": 64,
-        "female": 36
+        "male": 50,
+        "female": 50
       },
-      "coreProductOrService": "Core offering of Ankara By Dex",
+      "coreProductOrService": "Fashion",
       "yearsInOperation": 5,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "54 Main Street, Freetown",
-      "contactDetails": "+232 754 000000",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": "",
+        "website": "http://www.ankarabydex.com"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/AnkaraByDex",
-        "instagram": "https://instagram.com/AnkaraByDex",
-        "linkedin": "https://linkedin.com/company/AnkaraByDex"
+        "tiktok": "",
+        "facebook": "https://facebook.com/AnkarabyDex",
+        "instagram": "https://instagram.com/ankara_by_dex",
+        "linkedin": ""
       }
     },
     {
@@ -1469,8 +1565,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
       "businessAddress": "55 Main Street, Freetown",
-      "contactDetails": "+232 755 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/IgrowOrganics",
         "instagram": "https://instagram.com/IgrowOrganics",
         "linkedin": "https://linkedin.com/company/IgrowOrganics"
@@ -1495,8 +1596,13 @@
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "56 Main Street, Freetown",
-      "contactDetails": "+232 756 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/OfinoNaturalsLtd",
         "instagram": "https://instagram.com/OfinoNaturalsLtd",
         "linkedin": "https://linkedin.com/company/OfinoNaturalsLtd"
@@ -1521,8 +1627,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "57 Main Street, Freetown",
-      "contactDetails": "+232 757 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/LambanoSLLtd",
         "instagram": "https://instagram.com/LambanoSLLtd",
         "linkedin": "https://linkedin.com/company/LambanoSLLtd"
@@ -1534,24 +1645,30 @@
       "name": "FranBeck Designs",
       "description": "FranBeck Designs is a female-owned clothing brand that designs and produces a variety of clothes for men, women, and children. They also produce customized clothing that meets the specifications of their special clients.",
       "sector": "Fashion & Beauty",
+      "ownerName": "Francess Beckley",
       "ageOfOwner": 43,
-      "genderOfOwner": "Male",
-      "workforceNumber": 23,
+      "genderOfOwner": "Female",
+      "workforceNumber": 12,
       "workforceGenderDistribution": {
-        "male": 68,
-        "female": 32
+        "male": 40,
+        "female": 60
       },
-      "coreProductOrService": "Core offering of FranBeck Designs",
+      "coreProductOrService": "Clothing for all ages",
       "yearsInOperation": 9,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "58 Main Street, Freetown",
-      "contactDetails": "+232 758 000000",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": "",
+        "website": "http://www.franbeckdesigns.sl"
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/FranBeckDesigns",
-        "instagram": "https://instagram.com/FranBeckDesigns",
-        "linkedin": "https://linkedin.com/company/FranBeckDesigns"
+        "tiktok": "",
+        "facebook": "https://facebook.com/FranbeckDesigns",
+        "instagram": "https://instagram.com/FranbeckDesigns01",
+        "linkedin": ""
       }
     },
     {
@@ -1573,8 +1690,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "59 Main Street, Freetown",
-      "contactDetails": "+232 759 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/LifeofaCanvas",
         "instagram": "https://instagram.com/LifeofaCanvas",
         "linkedin": "https://linkedin.com/company/LifeofaCanvas"
@@ -1584,7 +1706,7 @@
       "id": 60,
       "logo": "",
       "name": "Dream Trim Couture",
-      "description": "Dream Trim Couture is a female-owned indigenous fashion company that sources, designs, and retails apparel and clothing accessories for men and women of all ages. the business was established in 2021 and has been doing extremely well in producing high-quality products and meeting customers\u2019 satisfaction.",
+      "description": "Dream Trim Couture is a female-owned indigenous fashion company that sources, designs, and retails apparel and clothing accessories for men and women of all ages. the business was established in 2021 and has been doing extremely well in producing high-quality products and meeting customers' satisfaction.",
       "sector": "Fashion & Beauty",
       "ageOfOwner": 30,
       "genderOfOwner": "Female",
@@ -1593,24 +1715,29 @@
         "male": 50,
         "female": 50
       },
-      "coreProductOrService": "Core offering of Dream Trim Couture",
+      "coreProductOrService": "Apparel and clothing accessories",
       "yearsInOperation": 1,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "60 Main Street, Freetown",
-      "contactDetails": "+232 760 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "http://www.dreamtrimcouture.com",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/DreamTrimCouture",
-        "instagram": "https://instagram.com/DreamTrimCouture",
-        "linkedin": "https://linkedin.com/company/DreamTrimCouture"
+        "tiktok": "",
+        "facebook": "https://facebook.com/Dreamtrimcouture",
+        "instagram": "https://instagram.com/Dreamtrimcouture",
+        "linkedin": ""
       }
     },
     {
       "id": 61,
       "logo": "",
       "name": "All About Maria",
-      "description": "All About Maria is an event decorating and Kids Entertainment Company that\u2019s based in and around Bo Town City. The event decorating side of the business offers weddings, birthdays, events decoration and catering services to both private and corporate clients. Whilst the Kids Entertainment offers outdoor recreational and playground facilities for kids (Maria\u2019s Kids Zone).",
+      "description": "All About Maria is an event decorating and Kids Entertainment Company that's based in and around Bo Town City. The event decorating side of the business offers weddings, birthdays, events decoration and catering services to both private and corporate clients. Whilst the Kids Entertainment offers outdoor recreational and playground facilities for kids (Maria's Kids Zone).",
       "sector": "Services",
       "ageOfOwner": 31,
       "genderOfOwner": "Male",
@@ -1619,17 +1746,22 @@
         "male": 51,
         "female": 49
       },
-      "coreProductOrService": "Core offering of All About Maria",
+      "coreProductOrService": "Event planning, Decoration, and management",
       "yearsInOperation": 2,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "61 Main Street, Freetown",
-      "contactDetails": "+232 761 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/AllAboutMaria",
-        "instagram": "https://instagram.com/AllAboutMaria",
-        "linkedin": "https://linkedin.com/company/AllAboutMaria"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1651,8 +1783,13 @@
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "62 Main Street, Freetown",
-      "contactDetails": "+232 762 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
+        "tiktok": "",
         "facebook": "https://facebook.com/BABSI",
         "instagram": "https://instagram.com/BABSI",
         "linkedin": "https://linkedin.com/company/BABSI"
@@ -1666,22 +1803,27 @@
       "sector": "Creative",
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
-      "workforceNumber": 8,
+      "workforceNumber": 15,
       "workforceGenderDistribution": {
-        "male": 53,
-        "female": 47
+        "male": 50,
+        "female": 50
       },
-      "coreProductOrService": "Core offering of Ballanta Academy of Music and Performing Arts (BAMPA)",
+      "coreProductOrService": "Music academy",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "63 Main Street, Freetown",
-      "contactDetails": "+232 763 000000",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "www.ballantaacademy.org",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/BallantaAcademyofMusicandPerformingArts(BAMPA)",
-        "instagram": "https://instagram.com/BallantaAcademyofMusicandPerformingArts(BAMPA)",
-        "linkedin": "https://linkedin.com/company/BallantaAcademyofMusicandPerformingArts(BAMPA)"
+        "tiktok": "",
+        "facebook": "https://facebook.com/BallantaAcademyOfMusic",
+        "instagram": "https://instagram.com/Ballanta_AcademyOfMusic",
+        "linkedin": ""
       }
     },
     {
@@ -1691,49 +1833,60 @@
       "description": "Eminence Africa is a dynamic and innovative multimedia, marketing, and communications company. The company is dedicated to amplifying our clients' visions and helping them achieve their goals in an ever-evolving digital landscape, actualizing imaginative ideas and flourishing brands in the limelight.",
       "sector": "Creative",
       "ageOfOwner": 34,
-      "genderOfOwner": "Male",
-      "workforceNumber": 9,
+      "genderOfOwner": "Female",
+      "workforceNumber": 30,
       "workforceGenderDistribution": {
-        "male": 54,
-        "female": 46
+        "male": 40,
+        "female": 60
       },
-      "coreProductOrService": "Core offering of Eminence Africa",
+      "coreProductOrService": "Digital Marketing, Multimedia, Videography, and more",
       "yearsInOperation": 5,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "64 Main Street, Freetown",
-      "contactDetails": "+232 764 000000",
+      "businessAddress": "Pa Demba Road, Freetown",
+      "contactDetails": {
+        "website": "http://www.eminenceafrica.com",
+        "phone": "",
+        "email": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/EminenceAfrica",
-        "instagram": "https://instagram.com/EminenceAfrica",
-        "linkedin": "https://linkedin.com/company/EminenceAfrica"
+        "tiktok": "",
+        "facebook": "https://facebook.com/EminenceAfricaHoldingCompany",
+        "instagram": "https://instagram.com/eminence_africa",
+        "linkedin": ""
       }
     },
     {
       "id": 65,
       "logo": "",
       "name": "Fashion One SL Ltd",
-      "description": "FASHION ONE (SL) INCUBATION HUB LIMITED is a wholesale tailoring company in Sierra Leone. We cater for men, women and children\u2019s clothing on a large scale including weddings, funerals, sports, school uniforms etc. We also help to empower youth through the tailoring training that we offer to young boys and girls in Freetown. Having high quality tailoring service in Sierra Leone is a challenge because of a shortage of properly skilled staff. We are helping to solve this through our training initiative.",
+      "description": "FASHION ONE (SL) INCUBATION HUB LIMITED is a wholesale tailoring company in Sierra Leone. We cater for men, women and children's clothing on a large scale including weddings, funerals, sports, school uniforms etc. We also help to empower youth through the tailoring training that we offer to young boys and girls in Freetown. Having high quality tailoring service in Sierra Leone is a challenge because of a shortage of properly skilled staff. We are helping to solve this through our training initiative.",
       "sector": "Fashion & Beauty",
+      "ownerName": "Mohamed Barrie",
       "ageOfOwner": 35,
       "genderOfOwner": "Male",
-      "workforceNumber": 10,
+      "workforceNumber": 20,
       "workforceGenderDistribution": {
         "male": 55,
         "female": 45
       },
-      "coreProductOrService": "Core offering of Fashion One SL Ltd",
+      "coreProductOrService": "Fabrics, Uniforms, sportswear, daily wear, official wear, and traditional wear",
       "yearsInOperation": 6,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
       "businessAddress": "65 Main Street, Freetown",
-      "contactDetails": "+232 765 000000",
+      "contactDetails": {
+        "email": "",
+        "phone": "",
+        "website": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/FashionOneSLLtd",
-        "instagram": "https://instagram.com/FashionOneSLLtd",
-        "linkedin": "https://linkedin.com/company/FashionOneSLLtd"
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/1AEP56bjEV/?mibextid=wwXIfr",
+        "instagram": "https://instagram.com/fashionone",
+        "linkedin": ""
       }
     },
     {
@@ -1749,17 +1902,22 @@
         "male": 56,
         "female": 44
       },
-      "coreProductOrService": "Core offering of Next Chance Innovation Hub",
+      "coreProductOrService": "Waste plastic is recycled into bricks and tile",
       "yearsInOperation": 7,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "66 Main Street, Freetown",
-      "contactDetails": "+232 766 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/NextChanceInnovationHub",
-        "instagram": "https://instagram.com/NextChanceInnovationHub",
-        "linkedin": "https://linkedin.com/company/NextChanceInnovationHub"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1775,17 +1933,22 @@
         "male": 57,
         "female": 43
       },
-      "coreProductOrService": "Core offering of Girls Behind The Lens",
+      "coreProductOrService": "Videography and Photography",
       "yearsInOperation": 8,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "67 Main Street, Freetown",
-      "contactDetails": "+232 767 000000",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/GirlsBehindTheLens",
-        "instagram": "https://instagram.com/GirlsBehindTheLens",
-        "linkedin": "https://linkedin.com/company/GirlsBehindTheLens"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/girls_behind_the_lens?igsh=anE3dXV2Z250Nmdz",
+        "linkedin": ""
       }
     },
     {
@@ -1801,24 +1964,29 @@
         "male": 58,
         "female": 42
       },
-      "coreProductOrService": "Core offering of J&F Fashion",
+      "coreProductOrService": "Clothing Accessories",
       "yearsInOperation": 9,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "68 Main Street, Freetown",
-      "contactDetails": "+232 768 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/J&FFashion",
-        "instagram": "https://instagram.com/J&FFashion",
-        "linkedin": "https://linkedin.com/company/J&FFashion"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
       "id": 69,
       "logo": "",
       "name": "Miimanu Couture Fashion house",
-      "description": "Miimanu Couture Fashionhouse is a business that designs luxury garments as well as general tailoring and designs for the public. The business has expanded into large-scale productions of official uniforms for various institutions such as hotels, private establishments, government ministries, and hospitals. Miimanu Couture produces various types of cuts and sews products, across numerous categories including corporate wear, menswear, womenswear, casuals, and value additions like replacement, prints, handwork, and embroidery. We have trained machinists specialized in manufacturing woven garments. Our production scale has moved from medium to large scale with an improved turnaround time. We have a strong and loyal fanbase and the feedback from our customers has been very positive.",
+      "description": "Miimanu Couture Fashion house is a business that designs luxury garments as well as general tailoring and designs for the public. The business has expanded into large-scale productions of official uniforms for various institutions such as hotels, private establishments, government ministries, and hospitals. Miimanu Couture produces various types of cuts and sews products, across numerous categories including corporate wear, menswear, womenswear, casuals, and value additions like replacement, prints, handwork, and embroidery. We have trained machinists specialized in manufacturing woven garments. Our production scale has moved from medium to large scale with an improved turnaround time. We have a strong and loyal fanbase and the feedback from our customers has been very positive.",
       "sector": "Fashion & Beauty",
       "ageOfOwner": 39,
       "genderOfOwner": "Female",
@@ -1827,24 +1995,29 @@
         "male": 59,
         "female": 41
       },
-      "coreProductOrService": "Core offering of Miimanu Couture Fashion house",
+      "coreProductOrService": "Clothing accessories, official uniforms, customized wear, and more",
       "yearsInOperation": 10,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "69 Main Street, Freetown",
-      "contactDetails": "+232 769 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/MiimanuCoutureFashionhouse",
-        "instagram": "https://instagram.com/MiimanuCoutureFashionhouse",
-        "linkedin": "https://linkedin.com/company/MiimanuCoutureFashionhouse"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/miimanu_?igsh=bXJndGJoZDRoZXd4",
+        "linkedin": ""
       }
     },
     {
       "id": 70,
       "logo": "",
       "name": "Mindokatie",
-      "description": "Mindokatie is a recycling business that recycles waste plastics into bricks and paving tiles.  Since 2018 Mindokatie has been serving the communities within its reach. These communities have a very high level of waste management and flooding problems. Mindokatie Salone has made a lot of gains in the fight against flooding challenges by recycling plastic waste into pavement blocks also known as recycled paving bricks for building pavements. The recycled paving bricks provide an additional solution which is low-cost building materials.",
+      "description": "Mindokatie is a recycling business that recycles waste plastics into bricks and paving tiles. Since 2018 Mindokatie has been serving the communities within its reach. These communities have a very high level of waste management and flooding problems. Mindokatie Salone has made a lot of gains in the fight against flooding challenges by recycling plastic waste into pavement blocks also known as recycled paving bricks for building pavements. The recycled paving bricks provide an additional solution which is low-cost building materials.",
       "sector": "Circular Economy",
       "ageOfOwner": 40,
       "genderOfOwner": "Male",
@@ -1853,17 +2026,22 @@
         "male": 60,
         "female": 40
       },
-      "coreProductOrService": "Core offering of Mindokatie",
+      "coreProductOrService": "Bricks and tiles made from waste plastics",
       "yearsInOperation": 1,
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "70 Main Street, Freetown",
-      "contactDetails": "+232 770 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Mindokatie",
-        "instagram": "https://instagram.com/Mindokatie",
-        "linkedin": "https://linkedin.com/company/Mindokatie"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
@@ -1879,17 +2057,22 @@
         "male": 61,
         "female": 39
       },
-      "coreProductOrService": "Core offering of Mumini Fashion Empire",
+      "coreProductOrService": "Clothing accessories and designer's wear",
       "yearsInOperation": 2,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "71 Main Street, Freetown",
-      "contactDetails": "+232 771 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/MuminiFashionEmpire",
-        "instagram": "https://instagram.com/MuminiFashionEmpire",
-        "linkedin": "https://linkedin.com/company/MuminiFashionEmpire"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/mumini_fashion?igsh=ZWVyM2ZnNW9xOGM4",
+        "linkedin": ""
       }
     },
     {
@@ -1900,30 +2083,66 @@
       "sector": "Circular Economy",
       "ageOfOwner": 42,
       "genderOfOwner": "Female",
-      "workforceNumber": 17,
+      "workforceNumber": 10,
       "workforceGenderDistribution": {
-        "male": 62,
-        "female": 38
+        "male": 30,
+        "female": 70
       },
-      "coreProductOrService": "Core offering of Shecures",
-      "yearsInOperation": 3,
+      "coreProductOrService": "Reusable Pads",
+      "yearsInOperation": 4,
       "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
+      "registrationStatus": "Registered",
       "disabilityInclusion": "No",
       "businessAddress": "72 Main Street, Freetown",
-      "contactDetails": "+232 772 000000",
+      "contactDetails": {
+        "email": "",
+        "phone": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Shecures",
-        "instagram": "https://instagram.com/Shecures",
-        "linkedin": "https://linkedin.com/company/Shecures"
+        "facebook": "https://facebook.com/Shecuressanitarypads",
+        "instagram": "https://instagram.com/Shecuressanitarypads",
+        "linkedin": "",
+        "tiktok": ""
       }
     },
     {
       "id": 73,
       "logo": "",
-      "name": "Shekam Briquette Making Enterprise",
-      "description": "Shekam Briquette Making Enterprise transforms organic waste into briquettes for cooking in households and commercial industries. The product serves as a more affordable source of energy, which also provides and promotes clean and healthy living conditions for communities in Sierra Leone.",
-      "sector": "Circular Economy",
+      "name": "HQ",
+      "description": "HQ is a dynamic visual art startup in Sierra Leone that celebrates creativity through innovative designs, digital art, and traditional mediums. The brand focuses on storytelling through visuals, offering bespoke artwork, prints, and collaborations that highlight Sierra Leonean culture and contemporary themes. HQ aims to empower local artists while making art accessible to a broader audience.",
+      "sector": "Creative",
+      "ownerName": "Thomasia Lewis",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Film production, Videography, Content Creation, Documentary",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "18 Andrew Street, Murraytown",
+      "contactDetails": {
+        "website": "",
+        "phone": "+23276331584 ",
+        "email": "thomasialewis@gmail.com"
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 74,
+      "logo": "",
+      "name": "Biani’s Art",
+      "description": "Biani’s Art is a rising visual arts startup dedicated to showcasing Sierra Leonean heritage through paintings, illustrations, and digital media. Founded by a passionate artist, the brand merges traditional African aesthetics with modern techniques, creating pieces that resonate with local and international audiences. Biani’s Art also engages in community art projects and workshops to nurture emerging talent.",
+      "sector": "Creative",
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1931,17 +2150,643 @@
         "male": 63,
         "female": 37
       },
-      "coreProductOrService": "Core offering of Shekam Briquette Making Enterprise",
+      "coreProductOrService": "Visual arts",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "73 Main Street, Freetown",
-      "contactDetails": "+232 773 000000",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/ShekamBriquetteMakingEnterprise",
-        "instagram": "https://instagram.com/ShekamBriquetteMakingEnterprise",
-        "linkedin": "https://linkedin.com/company/ShekamBriquetteMakingEnterprise"
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 75,
+      "logo": "",
+      "name": "Bloomer’s Era  ",
+      "description": "Bloomers Era is a vibrant fashion and lifestyle brand that blends Afrocentric designs with contemporary trends. Specializing in ready-to-wear clothing, accessories, and statement pieces, the startup emphasizes bold prints, sustainability, and cultural pride. Bloomer’s Era caters to young, fashion-forward individuals seeking unique, locally made apparel.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Ready-to-wear clothing, accessories, and statement piece",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 76,
+      "logo": "",
+      "name": "Raitu’s Stitches",
+      "description": "Raitu’s Stitches is a fashion and textile brand known for its handcrafted garments, custom tailoring, and Afro-inspired collections. Using locally sourced fabrics and intricate detailing, the startup offers stylish, high-quality clothing for men and women. Raitu’s Stitches promotes slow fashion, empowering local artisans while delivering elegance and cultural authenticity.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "High-quality clothing for men and women",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 77,
+      "logo": "",
+      "name": "Superior Elegance",
+      "description": "Superior Elegance is a premium fashion brand specializing in sophisticated, tailor-made outfits for formal and ceremonial occasions. With a focus on luxury textiles, meticulous craftsmanship, and timeless designs, the startup caters to clients seeking refined, custom-fitted attire. Superior Elegance combines modern trends with traditional Sierra Leonean influences, setting a high standard in bespoke fashion.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Refined, custom-fitted attire",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 78,
+      "logo": "",
+      "name": "Motel Creative Park (Tonkolili District)",
+      "description": "A dynamic open-field entertainment hub, Motel Creative Park provides a space for young creatives to showcase their talents in music, art, and performance. By fostering creativity and offering a platform for emerging artists, this startup is transforming Tonkolili into a hotspot for cultural expression.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "High-quality clothing for men and women",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 79,
+      "logo": "",
+      "name": "Kupaa Media",
+      "description": "Specializing in videography, photography, and digital content creation, Kupaa Media captures stories through a creative lens. From corporate branding to event coverage, they help businesses and individuals tell their stories visually.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Videography, photography, and digital content creation",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 80,
+      "logo": "",
+      "name": "Her Craft Creation",
+      "description": "Turning waste into wonder, Her Craft Creation upcycles used tires and discarded materials into stylish, eco-friendly furniture. This sustainable startup is redefining interior design while promoting environmental consciousness.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Interior design services",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://vm.tiktok.com/ZMBcn153h/",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/hercraftcreations?igsh=bGs4MzRxdXVkcHU3",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 81,
+      "logo": "",
+      "name": "MelArt Design",
+      "description": "A creative powerhouse in art and design, MelArt Design produces unique handcrafted pieces, from paintings to decorative arts, blending traditional and contemporary aesthetics.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Unique handcrafted pieces, from paintings to decorative arts",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://vm.tiktok.com/ZMBct3e9a/",
+        "facebook": "https://www.facebook.com/share/1ECQgAQCzm/?mibextid=wwXIfr",
+        "instagram": "https://www.instagram.com/mel_artdesigns1?igsh=MWMwcnI4aHVhdHdodg==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 82,
+      "logo": "",
+      "name": "ICE Creative Multimedia",
+      "description": "A full-service digital media company, ICE Creative Multimedia specializes in videography, photography, and digital content creation, helping brands elevate their visual identity with professional-grade productions.",
+      "sector": "Creative",
+      "ownerName": "Isata Kamara",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Videography, photography, documentary",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "1 Combination Drive Off Wilkinson Road, Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "+23278358687",
+        "email": "kamaraisataluv@gmail.com"
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://vm.tiktok.com/ZMBcn91c5/",
+        "facebook": "https://www.facebook.com/share/r/1ADkEty93y/?mibextid=wwXIfr",
+        "instagram": "https://www.instagram.com/icephotography_7898?igsh=MTZiNGptaGF5aGEzag==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 83,
+      "logo": "",
+      "name": "Talk with Ria",
+      "description": "A digital storytelling platform, Talk with Ria focuses on podcasts, documentaries, and engaging content that sparks conversations on culture, lifestyle, and social issues.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Podcasts, documentaries, and engaging content",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://vm.tiktok.com/ZMBcna8bj/",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/talk_with_ria?igsh=cnJvdjl2dmZrZ2s=2,000",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 84,
+      "logo": "",
+      "name": "Binta Queen",
+      "description": "A digital marketing and content creation startup, Binta Queen crafts compelling online campaigns and social media strategies to help brands connect with their audiences effectively.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Online campaigns and social media strategies",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@bintajabet1?_t=ZM-8vwLclAxF7m&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 85,
+      "logo": "",
+      "name": "I’m Karry",
+      "description": "An artist, musician, and talent manager, I’m Karry supports emerging musicians and creatives, offering artist development, music production, and performance opportunities.",
+      "sector": "Creative",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "supports emerging musicians and creatives",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://vm.tiktok.com/ZMBc7Nr6t/",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/iamkarry001?igsh=MWYzMjQ3N3o1eGNmNQ==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 86,
+      "logo": "",
+      "name": "Vicky’s Couture",
+      "description": "A bespoke fashion brand, Vicky’s Couture specializes in custom clothing designs, blending modern trends with African-inspired aesthetics for stylish, one-of-a-kind outfits.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Custom clothing designs, blending modern trends with African-inspired aesthetics",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@vickyscouture..16?_t=ZM-8vwNwQiKglS&_r=1",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/vickys.couture?igsh=MWdocDRxdjNxOXgwOA==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 87,
+      "logo": "",
+      "name": "Amena’s Couture",
+      "description": "A digital marketing and content creation startup, Binta Queen crafts compelling online campaigns and social media strategies to help brands connect with their audiences effectively.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Africana fashionable dresses and quality fabrics",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Wilberforce Village",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@amenacouture1?_t=ZM-8vwOLzC5l4P&_r=1",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/amenacouture?igsh=czB1M2I0bjQxM2s=2,000",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 88,
+      "logo": "",
+      "name": "Viola’s Stitches",
+      "description": "A clothing brand dedicated to craftsmanship, Viola’s Stitches creates trendy and durable fashion wear, catering to both casual and formal style needs.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Durable fashion wear, catering to both casual and formal style needs",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@violasstitchesdesign?_t=ZM-8vwP74G46on&_r=1",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/violas_stitches?igsh=bDhoYjR3YW9ya21r",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 89,
+      "logo": "",
+      "name": "Tigie Daema",
+      "description": "Tigie Deama is a brand dedicated to talent scouting and management. The organization concentrates on developing emerging musical artists, providing recruitment and comprehensive management services to facilitate their rise to prominence within the entertainment sector. Addressing a noted deficiency in artist management within Sierra Leone's entertainment industry, Tigie Deama was founded to fulfill this critical role.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Developing emerging musical artists, providing recruitment and comprehensive management services",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@tigiedaema2?_t=ZM-8vwPp0uFFRf&_r=1",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/i_am_tigie_daema?igsh=NTZyM3gxa3lqOHNt",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 90,
+      "logo": "",
+      "name": "Clamata’s Design ",
+      "description": "A fashion-forward brand, Clamata’s Design produces elegant clothing and accessories, emphasizing detail, comfort, and sophistication.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Produces elegant clothing and accessories",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/12HtADhxyHC/?mibextid=wwXIfr",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 91,
+      "logo": "",
+      "name": "D-Label",
+      "description": "Focused exclusively on women’s fashion, D-Label offers trendy clothing and accessories designed to empower and inspire confidence.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Offering trendy clothing and accessories",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/d.label.01?igsh=MWpjNW1yaWZ2aXdycQ==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 92,
+      "logo": "",
+      "name": "Nicosta Initiative",
+      "description": "An eco-conscious brand, Nicosta Initiative transforms waste materials like plastics and fabrics into stylish bags, shoes, and belts, proving that fashion can be both chic and sustainable.",
+      "sector": "Circular Economy",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Recycled bags, shoes, belts, and customized items",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@nicosta.initiativ?_t=ZM-8vwQWFuipzp&_r=1",
+        "facebook": "https://www.facebook.com/share/v/1APup84fZm/?mibextid=wwXIfr",
+        "instagram": "https://www.instagram.com/nicostainitiative?igsh=MXV6NjRvemQwdDdkNw==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 93,
+      "logo": "",
+      "name": "Saint John Clothing",
+      "description": "Dedicated to quality craftsmanship, Saint John Clothing produces refined apparel and accessories, catering to fashion enthusiasts who appreciate timeless style.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Refined apparel and accessories catering to fashion enthusiasts",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@stjonhsclothing1?_t=ZM-8vwQeMO6oFC&_r=1",
+        "facebook": "https://www.facebook.com/share/p/19vRcgvkb9/?mibextid=wwXIfr",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 94,
+      "logo": "",
+      "name": "Mimi’s Sewing Design",
+      "description": "A custom fashion brand, Mimi’s Sewing Design specializes in bespoke clothing, offering tailored designs that reflect personal style and creativity.",
+      "sector": "Fashion & Beauty",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 18,
+      "workforceGenderDistribution": {
+        "male": 63,
+        "female": 37
+      },
+      "coreProductOrService": "Bespoke clothing",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/mimi_sewing_design?igsh=MWw1dzdzYTc3b2Q1eQ==",
+        "linkedin": ""
       }
     }
   ]
