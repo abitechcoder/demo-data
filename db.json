@@ -48,7 +48,7 @@
   "businesses": [
     {
       "id": 13,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/fambul-global.png?v=1747974583627",
       "name": "Fambul Global",
       "description": "Dedicated to providing community-based services, fostering development through sustainable initiatives and impactful programs.",
       "sector": "Services",
@@ -172,7 +172,7 @@
     },
     {
       "id": 17,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/naps-natural.png?v=1747974727450",
       "name": "Nap's Natural Hair",
       "description": "Nap’s Natural Hair is a female-owned startup specializing in processing natural products that help hair grow, glow, and be beautiful. The business is legally registered and operational. As a new entry into the hair product space, the company is looking forward to attracting funding opportunities to scale up and, more importantly, establish itself as a force to be reckoned with. This will help the business develop structures and systems that will help it be sustainable and self-sufficient. It will also help the business create jobs and increase its turnover.",
       "sector": "Fashion & Beauty",
@@ -234,7 +234,7 @@
     },
     {
       "id": 19,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/millet-agric.png?v=1747974631100",
       "name": "Millet Agricultural Service",
       "description": "A tech-driven agricultural startup that processes millet into varieties of finished products and as well supports local farmers in Sierra Leone by providing innovative solutions for millet farming, including digital tools for crop management, market access, and sustainable farming practices.",
       "sector": "Food & Agro Processing",
@@ -295,7 +295,7 @@
     },
     {
       "id": 21,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/wisk-and-wonders.png?v=1747974539212",
       "name": "Wisk and Wonders",
       "description": "A creative startup specializing in the delivery of fresh bakes (bread and cakes). Wisk and Wonders use digital tools to enhance customer experiences, from connecting bakery owners to potential customers and delivering fresh bakes to customers who place orders using their digital platforms.",
       "sector": "Food & Agro Processing",
@@ -325,7 +325,7 @@
     },
     {
       "id": 22,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/biitech.png?v=1747974333207",
       "name": "BS Innovative Technology",
       "description": "A tech startup focused on developing innovative software and hardware solutions to address local challenges. BS Innovative Technology aims to bridge the digital divide in Sierra Leone through affordable and accessible tech products such as solar freezers and other solar-powered electronic appliances.",
       "sector": "Renewable",
@@ -355,7 +355,7 @@
     },
     {
       "id": 23,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/bokutok.png?v=1747974290952",
       "name": "Bokutok TV",
       "description": "A digital media platform that produces and streams local content, including entertainment, education, and news. Bokutok. TV aims to become Sierra Leone's leading digital media hub.",
       "sector": "Creative",
@@ -386,7 +386,7 @@
     },
     {
       "id": 24,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/greentech.png?v=1747974242896",
       "name": "Greentech Bioenergy",
       "description": "A sustainable energy startup that produces bioenergy solutions from organic waste. Greentech Bioenergy uses digital tools to optimize energy production and distribution, contributing to a greener Sierra Leone.",
       "sector": "Circular Economy",
@@ -416,7 +416,7 @@
     },
     {
       "id": 25,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/make-e-happen.png?v=1747974184863",
       "name": "Make E Happen Media Solutions",
       "description": "A digital marketing and media production startup that helps businesses and individuals build their online presence. Make E Happen offers services such as content creation, social media management, and digital advertising.",
       "sector": "Creative",
@@ -446,7 +446,7 @@
     },
     {
       "id": 26,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/make4u-sl.png?v=1747974101440",
       "name": "Maid4U SL",
       "description": "A service-based startup that connects households with professional cleaning and home care services. Maid4U SL uses a digital platform to streamline bookings and improve service delivery.",
       "sector": "Services",
@@ -506,7 +506,7 @@
     },
     {
       "id": 28,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/amena-couture.png?v=1747938732576",
       "name": "Amena's Couture",
       "description": "A fashion startup specializing in bespoke clothing and accessories. Amena's Couture uses digital tools to showcase designs, manage orders, and reach a global audience.",
       "sector": "Fashion & Beauty",
@@ -536,7 +536,7 @@
     },
     {
       "id": 29,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/hyacinth.png?v=1747974059981",
       "name": "Hyacinth's Signature",
       "description": "A luxury fashion brand that creates high-quality, culturally inspired clothing and accessories. Hyacinth's Signature leverages digital platforms to market its products and connect with fashion enthusiasts worldwide.",
       "sector": "Creative",
@@ -686,7 +686,7 @@
     },
     {
       "id": 34,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/manikene.png?v=1747973974825",
       "name": "Manikene",
       "description": "A fashion and lifestyle brand that creates unique, culturally inspired clothing and accessories. Manikene uses digital platforms to expand its customer base and showcase its creative designs.",
       "sector": "Fashion & Beauty",
@@ -716,7 +716,7 @@
     },
     {
       "id": 35,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/textiles-stone.png?v=1747973769946",
       "name": "Textiles Waste Salone",
       "description": "A sustainability-focused startup that recycles textile waste into new products. Textiles Waste Salone uses digital tools to raise awareness about waste management and promote its eco-friendly products.",
       "sector": "Circular Economy",
@@ -746,7 +746,7 @@
     },
     {
       "id": 36,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/salmah.png?v=1747938803643",
       "name": "Salmah's Crochet",
       "description": "Salmah's Crochet is a handmade crochet fashion brand that offers stylish high-quality crochet wear. The business is owned and managed by a female entrepreneur that operates in Sierra Leone.",
       "sector": "Creative",
@@ -1853,7 +1853,7 @@
     },
     {
       "id": 72,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/shecures.png?v=1747974017342",
       "name": "Shecures",
       "description": "Shecures manufactures reusable sanitary pads that are made from an eco-friendly high-absorbent microfiber and waterproof cotton material. They contain non-harmful chemicals with no fragrance or dyes. Our pads are 100% biodegradable and 100% URV sterilized. In addition, we offer the lowest prices and highest quality too. A short description /illustration book written by us comes with the product to guide clients on how to use the product and provide essential information needed by adolescents about menstruation.",
       "sector": "Circular Economy",
@@ -1946,7 +1946,7 @@
     },
     {
       "id": 75,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/bloomer-era.png?v=1747938784318",
       "name": "Bloomer’s Era  ",
       "description": "Bloomers Era is a vibrant fashion and lifestyle brand that blends Afrocentric designs with contemporary trends. Specializing in ready-to-wear clothing, accessories, and statement pieces, the startup emphasizes bold prints, sustainability, and cultural pride. Bloomer’s Era caters to young, fashion-forward individuals seeking unique, locally made apparel.",
       "sector": "Fashion & Beauty",
@@ -2070,7 +2070,7 @@
     },
     {
       "id": 79,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/kupaa-media.png?v=1747938774135",
       "name": "Kupaa Media",
       "description": "Specializing in videography, photography, and digital content creation, Kupaa Media captures stories through a creative lens. From corporate branding to event coverage, they help businesses and individuals tell their stories visually.",
       "sector": "Creative",
@@ -2101,7 +2101,7 @@
     },
     {
       "id": 80,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/her-craft.png?v=1747974691213",
       "name": "Her Craft Creation",
       "description": "Turning waste into wonder, Her Craft Creation upcycles used tires and discarded materials into stylish, eco-friendly furniture. This sustainable startup is redefining interior design while promoting environmental consciousness.",
       "sector": "Creative",
@@ -2132,7 +2132,7 @@
     },
     {
       "id": 81,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/melart.png?v=1747938760542",
       "name": "MelArt Design",
       "description": "A creative powerhouse in art and design, MelArt Design produces unique handcrafted pieces, from paintings to decorative arts, blending traditional and contemporary aesthetics.",
       "sector": "Creative",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": 82,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/ice-creative.png?v=1747938750517",
       "name": "ICE Creative Multimedia",
       "description": "A full-service digital media company, ICE Creative Multimedia specializes in videography, photography, and digital content creation, helping brands elevate their visual identity with professional-grade productions.",
       "sector": "Creative",
@@ -2195,7 +2195,7 @@
     },
     {
       "id": 83,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/talk-with-ria.png?v=1747938742915",
       "name": "Talk with Ria",
       "description": "A digital storytelling platform, Talk with Ria focuses on podcasts, documentaries, and engaging content that sparks conversations on culture, lifestyle, and social issues.",
       "sector": "Creative",
@@ -2288,7 +2288,7 @@
     },
     {
       "id": 86,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/vicky-couture.png?v=1747938794431",
       "name": "Vicky’s Couture",
       "description": "A bespoke fashion brand, Vicky’s Couture specializes in custom clothing designs, blending modern trends with African-inspired aesthetics for stylish, one-of-a-kind outfits.",
       "sector": "Fashion & Beauty",
