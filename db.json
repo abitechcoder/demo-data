@@ -2,56 +2,80 @@
   "sectors": [
     {
       "id": 1,
-      "title": "Tech"
+      "title": "Agroprocessing"
     },
     {
       "id": 2,
-      "title": "Food & Agro Processing"
+      "title": "Aquaculture"
     },
     {
       "id": 3,
-      "title": "Circular Economy"
+      "title": "Art"
     },
     {
       "id": 4,
-      "title": "Fashion & Beauty"
+      "title": "Beauty"
     },
     {
       "id": 5,
-      "title": "Digital"
+      "title": "Circular Economy"
     },
     {
       "id": 6,
-      "title": "Services"
+      "title": "Creative Sector"
     },
     {
       "id": 7,
-      "title": "Tourism"
+      "title": "Digital Services"
     },
     {
       "id": 8,
-      "title": "Renewable"
+      "title": "Event Services"
     },
     {
       "id": 9,
-      "title": "Creative"
+      "title": "Fashion"
     },
     {
       "id": 10,
-      "title": "Transport and Logistics"
+      "title": "Food and Beverages"
     },
     {
       "id": 11,
-      "title": "Others"
+      "title": "Logistics"
+    },
+    {
+      "id": 12,
+      "title": "Multimedia"
+    },
+    {
+      "id": 13,
+      "title": "Media Management"
+    },
+    {
+      "id": 14,
+      "title": "Music and Performing Arts"
+    },
+    {
+      "id": 15,
+      "title": "Renewable"
+    },
+    {
+      "id": 16,
+      "title": "Technology"
+    },
+    {
+      "id": 17,
+      "title": "Tourism"
     }
   ],
   "businesses": [
     {
-      "id": 17,
+      "id": 1,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/naps-natural.png?v=1747974727450",
       "name": "Nap's Natural Hair",
       "description": "Nap’s Natural Hair is a female-owned startup specializing in processing natural products that help hair grow, glow, and be beautiful. The business is legally registered and operational. As a new entry into the hair product space, the company is looking forward to attracting funding opportunities to scale up and, more importantly, establish itself as a force to be reckoned with. This will help the business develop structures and systems that will help it be sustainable and self-sufficient. It will also help the business create jobs and increase its turnover.",
-      "sector": "Fashion & Beauty",
+      "sector": 4,
       "ownerName": "Sallay Sankoh",
       "ageOfOwner": 32,
       "genderOfOwner": "Female",
@@ -78,11 +102,11 @@
       }
     },
     {
-      "id": 18,
-      "logo": "",
+      "id": 2,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/her-craft.png?v=1747974691213",
       "name": "Her Craft Innovation",
       "description": "A female-led startup focused on the recycling of old tires and empowering women through craft-making and innovation. Her Craft Innovation produces handmade products while integrating digital tools to expand market reach and streamline operations.",
-      "sector": "Circular Economy",
+      "sector": 5,
       "ownerName": "",
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
@@ -109,11 +133,11 @@
       }
     },
     {
-      "id": 19,
+      "id": 3,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/millet-agric.png?v=1747974631100",
       "name": "Millet Agricultural Service",
       "description": "A tech-driven agricultural startup that processes millet into varieties of finished products and as well supports local farmers in Sierra Leone by providing innovative solutions for millet farming, including digital tools for crop management, market access, and sustainable farming practices.",
-      "sector": "Food & Agro Processing",
+      "sector": 1,
       "ownerName": "",
       "ageOfOwner": 34,
       "genderOfOwner": "Male",
@@ -140,11 +164,11 @@
       }
     },
     {
-      "id": 20,
-      "logo": "",
+      "id": 4,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/fambul-global.png?v=1748270755413",
       "name": "Fambul Global Destination",
       "description": "A tourism and hospitality startup that promotes Sierra Leone as a global travel destination. Fambul Global Destination leverages digital platforms to showcase local culture, heritage, and eco-tourism opportunities.",
-      "sector": "Tourism",
+      "sector": 17,
       "ageOfOwner": 35,
       "genderOfOwner": "Male",
       "workforceNumber": 5,
@@ -170,11 +194,11 @@
       }
     },
     {
-      "id": 21,
+      "id": 5,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/wisk-and-wonders.png?v=1747974539212",
       "name": "Wisk and Wonders",
       "description": "A creative startup specializing in the delivery of fresh bakes (bread and cakes). Wisk and Wonders use digital tools to enhance customer experiences, from connecting bakery owners to potential customers and delivering fresh bakes to customers who place orders using their digital platforms.",
-      "sector": "Food & Agro Processing",
+      "sector": 10,
       "ageOfOwner": 36,
       "genderOfOwner": "Female",
       "workforceNumber": 6,
@@ -200,11 +224,11 @@
       }
     },
     {
-      "id": 22,
+      "id": 6,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/biitech.png?v=1747974333207",
       "name": "BS Innovative Technology",
       "description": "A tech startup focused on developing innovative software and hardware solutions to address local challenges. BS Innovative Technology aims to bridge the digital divide in Sierra Leone through affordable and accessible tech products such as solar freezers and other solar-powered electronic appliances.",
-      "sector": "Renewable",
+      "sector": 15,
       "ageOfOwner": 37,
       "genderOfOwner": "Male",
       "workforceNumber": 7,
@@ -230,11 +254,11 @@
       }
     },
     {
-      "id": 23,
+      "id": 7,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/bokutok.png?v=1747974290952",
       "name": "Bokutok TV",
       "description": "A digital media platform that produces and streams local content, including entertainment, education, and news. Bokutok. TV aims to become Sierra Leone's leading digital media hub.",
-      "sector": "Creative",
+      "sector": "12",
       "ownerName": "Alpha Janneh",
       "ageOfOwner": 38,
       "genderOfOwner": "Male",
@@ -261,11 +285,11 @@
       }
     },
     {
-      "id": 24,
+      "id": 8,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/greentech.png?v=1747974242896",
       "name": "Greentech Bioenergy",
       "description": "A sustainable energy startup that produces bioenergy solutions from organic waste. Greentech Bioenergy uses digital tools to optimize energy production and distribution, contributing to a greener Sierra Leone.",
-      "sector": "Circular Economy",
+      "sector": 5,
       "ageOfOwner": 39,
       "genderOfOwner": "Male",
       "workforceNumber": 9,
@@ -291,11 +315,11 @@
       }
     },
     {
-      "id": 25,
+      "id": 9,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/make-e-happen.png?v=1747974184863",
       "name": "Make E Happen Media Solutions",
       "description": "A digital marketing and media production startup that helps businesses and individuals build their online presence. Make E Happen offers services such as content creation, social media management, and digital advertising.",
-      "sector": "Creative",
+      "sector": 12,
       "ageOfOwner": 40,
       "genderOfOwner": "Male",
       "workforceNumber": 10,
@@ -321,11 +345,11 @@
       }
     },
     {
-      "id": 26,
+      "id": 10,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/make4u-sl.png?v=1747974101440",
       "name": "Maid4U SL",
       "description": "A service-based startup that connects households with professional cleaning and home care services. Maid4U SL uses a digital platform to streamline bookings and improve service delivery.",
-      "sector": "Services",
+      "sector": 7,
       "ageOfOwner": 41,
       "genderOfOwner": "Male",
       "workforceNumber": 11,
@@ -351,11 +375,11 @@
       }
     },
     {
-      "id": 27,
+      "id": 11,
       "logo": "",
       "name": "Techstuff",
       "description": "A tech retail and repair startup that provides affordable gadgets, accessories, and repair services. Techstuff also offers digital literacy training to help customers maximize their tech usage.",
-      "sector": "Tech",
+      "sector": 16,
       "ageOfOwner": 42,
       "genderOfOwner": "Female",
       "workforceNumber": 12,
@@ -381,11 +405,11 @@
       }
     },
     {
-      "id": 28,
+      "id": 12,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/amena-couture.png?v=1747938732576",
       "name": "Amena's Couture",
       "description": "A fashion startup specializing in bespoke clothing and accessories. Amena's Couture uses digital tools to showcase designs, manage orders, and reach a global audience.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 13,
@@ -411,11 +435,11 @@
       }
     },
     {
-      "id": 29,
+      "id": 13,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/hyacinth.png?v=1747974059981",
       "name": "Hyacinth's Signature",
       "description": "A luxury fashion brand that creates high-quality, culturally inspired clothing and accessories. Hyacinth's Signature leverages digital platforms to market its products and connect with fashion enthusiasts worldwide.",
-      "sector": "Creative",
+      "sector": 9,
       "ageOfOwner": 44,
       "genderOfOwner": "Male",
       "workforceNumber": 14,
@@ -441,11 +465,41 @@
       }
     },
     {
-      "id": 30,
+      "id": 14,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/shecures.png?v=1747974017342",
+      "name": "Shecures",
+      "description": "Shecures manufactures reusable sanitary pads that are made from an eco-friendly high-absorbent microfiber and waterproof cotton material. They contain non-harmful chemicals with no fragrance or dyes. Our pads are 100% biodegradable and 100% URV sterilized. In addition, we offer the lowest prices and highest quality too. A short description /illustration book written by us comes with the product to guide clients on how to use the product and provide essential information needed by adolescents about menstruation.",
+      "sector": 5,
+      "ageOfOwner": 42,
+      "genderOfOwner": "Female",
+      "workforceNumber": 10,
+      "workforceGenderDistribution": {
+        "male": 30,
+        "female": 70
+      },
+      "coreProductOrService": "Reusable Pads",
+      "yearsInOperation": 4,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "72 Main Street, Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "facebook": "https://facebook.com/Shecuressanitarypads",
+        "instagram": "https://instagram.com/Shecuressanitarypads",
+        "linkedin": "",
+        "tiktok": ""
+      }
+    },
+    {
+      "id": 15,
       "logo": "",
       "name": "Vicra's Fresh Catch",
       "description": "A seafood startup that sources and delivers fresh fish and seafood to consumers. Vicra's Fresh Catch uses digital tools to improve supply chain efficiency and ensure timely deliveries.",
-      "sector": "Food & Agro Processing",
+      "sector": 2,
       "ageOfOwner": 30,
       "genderOfOwner": "Female",
       "workforceNumber": 15,
@@ -471,11 +525,11 @@
       }
     },
     {
-      "id": 31,
-      "logo": "",
+      "id": 16,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/ecodesign.png?v=1748274796159",
       "name": "Ecodesign Innovation SL",
       "description": "An Eco-friendly startup that designs and produces sustainable products from recycled materials. Ecodesign Innovation SL uses digital marketing to promote its environmentally conscious brand.",
-      "sector": "Circular Economy",
+      "sector": 5,
       "ageOfOwner": 31,
       "genderOfOwner": "Male",
       "workforceNumber": 16,
@@ -501,11 +555,11 @@
       }
     },
     {
-      "id": 32,
-      "logo": "",
+      "id": 17,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/okride.png?v=1748274814764",
       "name": "OkRide Delivery Service",
       "description": "A logistics startup offering reliable and affordable delivery services. OkRide uses a digital platform to connect customers with delivery agents, ensuring efficient and transparent service.",
-      "sector": "Transport and Logistics",
+      "sector": 11,
       "ageOfOwner": 32,
       "genderOfOwner": "Male",
       "workforceNumber": 17,
@@ -531,11 +585,11 @@
       }
     },
     {
-      "id": 33,
+      "id": 18,
       "logo": "",
       "name": "Shades of Esther",
       "description": "A beauty and cosmetics startup that produces high-quality skincare and makeup products. Shades of Esther uses digital tools to market its products and engage with customers online.",
-      "sector": "Fashion & Beauty",
+      "sector": 4,
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
       "workforceNumber": 18,
@@ -561,11 +615,11 @@
       }
     },
     {
-      "id": 34,
+      "id": 19,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/manikene.png?v=1747973974825",
       "name": "Manikene",
       "description": "A fashion and lifestyle brand that creates unique, culturally inspired clothing and accessories. Manikene uses digital platforms to expand its customer base and showcase its creative designs.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 34,
       "genderOfOwner": "Male",
       "workforceNumber": 19,
@@ -591,11 +645,11 @@
       }
     },
     {
-      "id": 35,
+      "id": 20,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/textiles-stone.png?v=1747973769946",
       "name": "Textiles Waste Salone",
       "description": "A sustainability-focused startup that recycles textile waste into new products. Textiles Waste Salone uses digital tools to raise awareness about waste management and promote its eco-friendly products.",
-      "sector": "Circular Economy",
+      "sector": 5,
       "ageOfOwner": 35,
       "genderOfOwner": "Male",
       "workforceNumber": 20,
@@ -621,11 +675,11 @@
       }
     },
     {
-      "id": 36,
+      "id": 21,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/salmah.png?v=1747938803643",
       "name": "Salmah's Crochet",
       "description": "Salmah's Crochet is a handmade crochet fashion brand that offers stylish high-quality crochet wear. The business is owned and managed by a female entrepreneur that operates in Sierra Leone.",
-      "sector": "Creative",
+      "sector": 9,
       "ageOfOwner": 36,
       "genderOfOwner": "Female",
       "workforceNumber": 21,
@@ -651,11 +705,11 @@
       }
     },
     {
-      "id": 37,
+      "id": 22,
       "logo": "",
       "name": "Tech Link Us",
       "description": "Tech Link Us is a freelance software development startup established in Sierra Leone by Young Tech Developers. The business specializes in web development, App Development, and developing software tools for other businesses and organizations.",
-      "sector": "Tech",
+      "sector": 16,
       "ageOfOwner": 37,
       "genderOfOwner": "Male",
       "workforceNumber": 22,
@@ -681,11 +735,11 @@
       }
     },
     {
-      "id": 38,
-      "logo": "",
+      "id": 23,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/vicky-couture.png?v=1748278366951",
       "name": "Vicky's Couture",
       "description": "Vicky's Couture is crafted with purpose and made in Salone. We create high-quality, sustainable pieces that empower and express your unique style.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 38,
       "genderOfOwner": "Male",
       "workforceNumber": 23,
@@ -707,6 +761,433 @@
         "tiktok": "https://www.tiktok.com/@vickyscouture..16?_t=ZM-8vTNAye3TRW&_r=1",
         "facebook": "https://www.facebook.com/share/16FsW4VSFs/",
         "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 24,
+      "logo": "",
+      "name": "J&F Eritej",
+      "description": "J&F Eritej is a premier Couturier House in Sierra Leone with over 25 years of experience. Our greatest achievement has been the resurrection of a dying cultural fashion of Sierra Leone locally known as the \u201cPrint\u201d.",
+      "sector": 9,
+      "ageOfOwner": 40,
+      "genderOfOwner": "Male",
+      "workforceNumber": 5,
+      "workforceGenderDistribution": {
+        "male": 50,
+        "female": 50
+      },
+      "coreProductOrService": "Tailoring & Couture",
+      "yearsInOperation": 1,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "Yes",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": "078922779"
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 25,
+      "logo": "",
+      "name": "Nicosta Initiative",
+      "description": "NICOSTA INITIATIVE is an initiative that recycles waste materials like old tires into furniture, water bottles into women's bracelets, cartoons into decorative materials, alternative use of single-use plastic to that of cotton bags, etc . NICOSTA INITIATIVE is there to protect the environment and empower vulnerable women and girls.",
+      "sector": 5,
+      "ageOfOwner": 41,
+      "genderOfOwner": "Male",
+      "workforceNumber": 6,
+      "workforceGenderDistribution": {
+        "male": 51,
+        "female": 49
+      },
+      "coreProductOrService": "Bags, bracelets, decorative materials, etc",
+      "yearsInOperation": 2,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Lordep Jui Freetown",
+      "contactDetails": {
+        "email": "Kamaraphatmataosman@gmail.com",
+        "phone": "088186502"
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@nicosta.initiativ?_t=ZM-8vwQWFuipzp&_r=1",
+        "facebook": "https://www.facebook.com/share/v/1APup84fZm/?mibextid=wwXIfr",
+        "instagram": "https://www.instagram.com/nicostainitiative?igsh=MXV6NjRvemQwdDdkNw==",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 26,
+      "logo": "",
+      "name": "Soles & Sparkles",
+      "description": "Soles & Sparkles is dedicated to bringing luxury and style to your wardrobe. Specializing in high-quality made in African fashion and beauty products.",
+      "sector": 9,
+      "ageOfOwner": 42,
+      "genderOfOwner": "Female",
+      "workforceNumber": 7,
+      "workforceGenderDistribution": {
+        "male": 52,
+        "female": 48
+      },
+      "coreProductOrService": "Leather footwear",
+      "yearsInOperation": 3,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Unregistered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "email": "",
+        "phone": "074219239"
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/15zUn9bXd3/",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 28,
+      "logo": "",
+      "name": "Kujuls Naturals",
+      "description": "Kujuls Naturals is the home of organic products that produces components, focusing mainly on plant based extracts, oils and minerals in other your nourish your hair and skin.",
+      "sector": 4,
+      "ageOfOwner": 43,
+      "genderOfOwner": "Male",
+      "workforceNumber": 8,
+      "workforceGenderDistribution": {
+        "male": 53,
+        "female": 47
+      },
+      "coreProductOrService": "Body and hair products",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Mack Pharmacy Lumley Freetown S.L",
+      "contactDetails": {
+        "email": "aminamanty7210@gmail.com",
+        "phone": "079666623"
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://www.facebook.com/share/1Fpw7ujVHC/",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 29,
+      "logo": "",
+      "name": "Shea & More Naturals",
+      "description": "Shea & More Naturals products are formulated with locally sourced raw ingredients to grow your natural hair and rejuvenate your skin, leaving it nourished and glowing.",
+      "sector": 4,
+      "ageOfOwner": 44,
+      "genderOfOwner": "Male",
+      "workforceNumber": 9,
+      "workforceGenderDistribution": {
+        "male": 54,
+        "female": 46
+      },
+      "coreProductOrService": "Hair and beauty products",
+      "yearsInOperation": 5,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "16 Aberdeen ferry road, Freetown, Sierra Leone",
+      "contactDetails": {
+        "email": "Dalandamassally2@gmail.com",
+        "phone": "079685786"
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@sheaandmorenaturals?_t=ZM-8vTQ6tPrLcd&_r=1",
+        "facebook": "https://www.facebook.com/share/16N1m2tPeK/",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 30,
+      "logo": "",
+      "name": "Ofino Natural",
+      "description": "Ofino Natural is the first all-natural ingredient for hair and body. It caters to everyone who is \u201cOfino,\u201d meaning beautiful.",
+      "sector": 4,
+      "ageOfOwner": 30,
+      "genderOfOwner": "Female",
+      "workforceNumber": 10,
+      "workforceGenderDistribution": {
+        "male": 55,
+        "female": 45
+      },
+      "coreProductOrService": "Hair and body products",
+      "yearsInOperation": 6,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "Yes",
+      "businessAddress": "3 Peninsula Road, Adonkia, Freetown, Sierra Leone",
+      "contactDetails": {
+        "email": "joeafromeric@gmail.com",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@ofinonatural?_t=ZM-8vTPoMAs23J&_r=1",
+        "facebook": "https://www.facebook.com/share/12MSMKqXE7i/",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 31,
+      "logo": "",
+      "name": "Whispers From Salone",
+      "description": "At 'Whispers From Salone' our Vision is to celebrate the beauty of art, culture, and sustainability. Our artistic souvenirs not only capture the essence of our nation's rich heritage but also embody our commitment to environmental consciousness.",
+      "sector": 3,
+      "ageOfOwner": 32,
+      "genderOfOwner": "Male",
+      "workforceNumber": 12,
+      "workforceGenderDistribution": {
+        "male": 57,
+        "female": 43
+      },
+      "coreProductOrService": "Krio Coloring books (handmade and recycled art)",
+      "yearsInOperation": 8,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Wilkinson road",
+      "contactDetails": {
+        "email": "Zatofakih@gmail.com",
+        "phone": "099444449"
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@whispers.from.salone?_t=ZM-8vTPyVShiIZ&_r=1",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 32,
+      "logo": "",
+      "name": "Nina's Coffee",
+      "description": "Nina's Coffee comes from Yekebema in Sierra Leone's Kono District, where the tropical climate enriches the soil. It is crafted with love, using small-batch roasting techniques. This process, accompanied by music, results in a unique and rich flavor profile.",
+      "sector": 10,
+      "ageOfOwner": 33,
+      "genderOfOwner": "Female",
+      "workforceNumber": 13,
+      "workforceGenderDistribution": {
+        "male": 58,
+        "female": 42
+      },
+      "coreProductOrService": "Beverage",
+      "yearsInOperation": 9,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "email": "",
+        "phone": "076627514"
+      },
+      "socialMediaLinks": {
+        "tiktok": "https://www.tiktok.com/@ninascoffeelove20?_t=ZM-8vTPSKiLXpG&_r=1",
+        "facebook": "https://www.facebook.com/share/17iYH5BAsV/",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 33,
+      "logo": "",
+      "name": "Ankara By Dex",
+      "description": "Ankara By Dex is a fashion business that promotes local traditions and culture through fashion and clothing lines. the business design and sew quality fabrics that boost the confidence of its customers in public places and also promote the rich African culturing through their products.",
+      "sector": 9,
+      "ageOfOwner": 39,
+      "genderOfOwner": "Female",
+      "workforceNumber": 12,
+      "workforceGenderDistribution": {
+        "male": 50,
+        "female": 50
+      },
+      "coreProductOrService": "Fashion",
+      "yearsInOperation": 5,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": "",
+        "website": "http://www.ankarabydex.com"
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/AnkarabyDex",
+        "instagram": "https://instagram.com/ankara_by_dex",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 34,
+      "logo": "",
+      "name": "FranBeck Designs",
+      "description": "FranBeck Designs is a female-owned clothing brand that designs and produces a variety of clothes for men, women, and children. They also produce customized clothing that meets the specifications of their special clients.",
+      "sector": 9,
+      "ownerName": "Francess Beckley",
+      "ageOfOwner": 43,
+      "genderOfOwner": "Female",
+      "workforceNumber": 12,
+      "workforceGenderDistribution": {
+        "male": 40,
+        "female": 60
+      },
+      "coreProductOrService": "Clothing for all ages",
+      "yearsInOperation": 9,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "email": "",
+        "phone": "",
+        "website": "http://www.franbeckdesigns.sl"
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/FranbeckDesigns",
+        "instagram": "https://instagram.com/FranbeckDesigns01",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 35,
+      "logo": "",
+      "name": "Dream Trim Couture",
+      "description": "Dream Trim Couture is a female-owned indigenous fashion company that sources, designs, and retails apparel and clothing accessories for men and women of all ages. the business was established in 2021 and has been doing extremely well in producing high-quality products and meeting customers' satisfaction.",
+      "sector": 9,
+      "ageOfOwner": 30,
+      "genderOfOwner": "Female",
+      "workforceNumber": 5,
+      "workforceGenderDistribution": {
+        "male": 50,
+        "female": 50
+      },
+      "coreProductOrService": "Apparel and clothing accessories",
+      "yearsInOperation": 1,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "Yes",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "http://www.dreamtrimcouture.com",
+        "email": "",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/Dreamtrimcouture",
+        "instagram": "https://instagram.com/Dreamtrimcouture",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 36,
+      "logo": "image to be added",
+      "name": "All About Maria",
+      "description": "All About Maria is an event decorating and Kids Entertainment Company that's based in and around Bo Town City. The event decorating side of the business offers weddings, birthdays, events decoration and catering services to both private and corporate clients. Whilst the Kids Entertainment offers outdoor recreational and playground facilities for kids (Maria's Kids Zone).",
+      "sector": 8,
+      "ageOfOwner": 31,
+      "genderOfOwner": "Male",
+      "workforceNumber": 6,
+      "workforceGenderDistribution": {
+        "male": 51,
+        "female": 49
+      },
+      "coreProductOrService": "Event planning, Decoration, and management",
+      "yearsInOperation": 2,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 37,
+      "logo": "",
+      "name": "Ballanta Academy of Music and Performing Arts (BAMPA)",
+      "description": "Ballanta Academy of Music and Performing Arts (BAMPA) is a music and performing arts school giving tuition on various musical instruments, organizing events to showcase community talents, and consultation on cultural arts matters nationally and internationally. We provide education for people of all ages who wish to pursue the musical and dance arts. There is currently no other institution of this nature in the country. We also provide advice and support for musical events organized by other entities. We organize workshops, competitions, concerts, and festivals. It is the only private institution involved in the research of indigenous musical arts in the country.",
+      "sector": "Creative",
+      "ageOfOwner": 33,
+      "genderOfOwner": "Female",
+      "workforceNumber": 15,
+      "workforceGenderDistribution": {
+        "male": 50,
+        "female": 50
+      },
+      "coreProductOrService": "Music academy",
+      "yearsInOperation": 4,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Freetown",
+      "contactDetails": {
+        "website": "www.ballantaacademy.org",
+        "email": "",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/BallantaAcademyOfMusic",
+        "instagram": "https://instagram.com/Ballanta_AcademyOfMusic",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 38,
+      "logo": "",
+      "name": "Eminence Africa",
+      "description": "Eminence Africa is a dynamic and innovative multimedia, marketing, and communications company. The company is dedicated to amplifying our clients' visions and helping them achieve their goals in an ever-evolving digital landscape, actualizing imaginative ideas and flourishing brands in the limelight.",
+      "sector": "Creative",
+      "ageOfOwner": 34,
+      "genderOfOwner": "Female",
+      "workforceNumber": 30,
+      "workforceGenderDistribution": {
+        "male": 40,
+        "female": 60
+      },
+      "coreProductOrService": "Digital Marketing, Multimedia, Videography, and more",
+      "yearsInOperation": 5,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "Pa Demba Road, Freetown",
+      "contactDetails": {
+        "website": "http://www.eminenceafrica.com",
+        "phone": "",
+        "email": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/EminenceAfricaHoldingCompany",
+        "instagram": "https://instagram.com/eminence_africa",
         "linkedin": ""
       }
     },
@@ -742,186 +1223,6 @@
       }
     },
     {
-      "id": 40,
-      "logo": "",
-      "name": "J&F Eritej",
-      "description": "J&F Eritej is a premier Couturier House in Sierra Leone with over 25 years of experience. Our greatest achievement has been the resurrection of a dying cultural fashion of Sierra Leone locally known as the \u201cPrint\u201d.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 40,
-      "genderOfOwner": "Male",
-      "workforceNumber": 5,
-      "workforceGenderDistribution": {
-        "male": 50,
-        "female": 50
-      },
-      "coreProductOrService": "Tailoring & Couture",
-      "yearsInOperation": 1,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "Yes",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "email": "",
-        "phone": "078922779"
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 41,
-      "logo": "",
-      "name": "Nicosta Initiative",
-      "description": "NICOSTA INITIATIVE is an initiative that recycles waste materials like old tires into furniture, water bottles into women's bracelets, cartoons into decorative materials, alternative use of single-use plastic to that of cotton bags, etc . NICOSTA INITIATIVE is there to protect the environment and empower vulnerable women and girls.",
-      "sector": "Others",
-      "ageOfOwner": 41,
-      "genderOfOwner": "Male",
-      "workforceNumber": 6,
-      "workforceGenderDistribution": {
-        "male": 51,
-        "female": 49
-      },
-      "coreProductOrService": "Bags, bracelets, decorative materials, etc",
-      "yearsInOperation": 2,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Lordep Jui Freetown",
-      "contactDetails": {
-        "email": "Kamaraphatmataosman@gmail.com",
-        "phone": "088186502"
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@nicosta.initiativ?_t=ZM-8vwQWFuipzp&_r=1",
-        "facebook": "https://www.facebook.com/share/v/1APup84fZm/?mibextid=wwXIfr",
-        "instagram": "https://www.instagram.com/nicostainitiative?igsh=MXV6NjRvemQwdDdkNw==",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 42,
-      "logo": "",
-      "name": "Soles & Sparkles",
-      "description": "Soles & Sparkles is dedicated to bringing luxury and style to your wardrobe. Specializing in high-quality made in African fashion and beauty products.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 42,
-      "genderOfOwner": "Female",
-      "workforceNumber": 7,
-      "workforceGenderDistribution": {
-        "male": 52,
-        "female": 48
-      },
-      "coreProductOrService": "Leather footwear",
-      "yearsInOperation": 3,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "",
-      "contactDetails": {
-        "email": "",
-        "phone": "074219239"
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://www.facebook.com/share/15zUn9bXd3/",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 43,
-      "logo": "",
-      "name": "Kujuls Naturals",
-      "description": "Kujuls Naturals is the home of organic products that produces components, focusing mainly on plant based extracts, oils and minerals in other your nourish your hair and skin.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 43,
-      "genderOfOwner": "Male",
-      "workforceNumber": 8,
-      "workforceGenderDistribution": {
-        "male": 53,
-        "female": 47
-      },
-      "coreProductOrService": "Body and hair products",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Mack Pharmacy Lumley Freetown S.L",
-      "contactDetails": {
-        "email": "aminamanty7210@gmail.com",
-        "phone": "079666623"
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://www.facebook.com/share/1Fpw7ujVHC/",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 44,
-      "logo": "",
-      "name": "Shea & More Naturals",
-      "description": "Shea & More Naturals products are formulated with locally sourced raw ingredients to grow your natural hair and rejuvenate your skin, leaving it nourished and glowing.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 44,
-      "genderOfOwner": "Male",
-      "workforceNumber": 9,
-      "workforceGenderDistribution": {
-        "male": 54,
-        "female": 46
-      },
-      "coreProductOrService": "Hair and beauty products",
-      "yearsInOperation": 5,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "16 Aberdeen ferry road, Freetown, Sierra Leone",
-      "contactDetails": {
-        "email": "Dalandamassally2@gmail.com",
-        "phone": "079685786"
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@sheaandmorenaturals?_t=ZM-8vTQ6tPrLcd&_r=1",
-        "facebook": "https://www.facebook.com/share/16N1m2tPeK/",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 45,
-      "logo": "",
-      "name": "Ofino Natural",
-      "description": "Ofino Natural is the first all-natural ingredient for hair and body. It caters to everyone who is \u201cOfino,\u201d meaning beautiful.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 30,
-      "genderOfOwner": "Female",
-      "workforceNumber": 10,
-      "workforceGenderDistribution": {
-        "male": 55,
-        "female": 45
-      },
-      "coreProductOrService": "Hair and body products",
-      "yearsInOperation": 6,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "Yes",
-      "businessAddress": "3 Peninsula Road, Adonkia, Freetown, Sierra Leone",
-      "contactDetails": {
-        "email": "joeafromeric@gmail.com",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@ofinonatural?_t=ZM-8vTPoMAs23J&_r=1",
-        "facebook": "https://www.facebook.com/share/12MSMKqXE7i/",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
       "id": 46,
       "logo": "",
       "name": "Queenest Organic Herbal",
@@ -950,66 +1251,6 @@
         "facebook": "https://facebook.com/QueenestOrganicHerbal",
         "instagram": "https://instagram.com/QueenestOrganicHerbal",
         "linkedin": "https://linkedin.com/company/QueenestOrganicHerbal"
-      }
-    },
-    {
-      "id": 47,
-      "logo": "",
-      "name": "Whispers From Salone",
-      "description": "At 'Whispers From Salone' our Vision is to celebrate the beauty of art, culture, and sustainability. Our artistic souvenirs not only capture the essence of our nation's rich heritage but also embody our commitment to environmental consciousness.",
-      "sector": "Creative",
-      "ageOfOwner": 32,
-      "genderOfOwner": "Male",
-      "workforceNumber": 12,
-      "workforceGenderDistribution": {
-        "male": 57,
-        "female": 43
-      },
-      "coreProductOrService": "Krio Coloring books (handmade and recycled art)",
-      "yearsInOperation": 8,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Wilkinson road",
-      "contactDetails": {
-        "email": "Zatofakih@gmail.com",
-        "phone": "099444449"
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@whispers.from.salone?_t=ZM-8vTPyVShiIZ&_r=1",
-        "facebook": "",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 48,
-      "logo": "",
-      "name": "Nina's Coffee",
-      "description": "Nina's Coffee comes from Yekebema in Sierra Leone's Kono District, where the tropical climate enriches the soil. It is crafted with love, using small-batch roasting techniques. This process, accompanied by music, results in a unique and rich flavor profile.",
-      "sector": "Food & Agro Processing",
-      "ageOfOwner": 33,
-      "genderOfOwner": "Female",
-      "workforceNumber": 13,
-      "workforceGenderDistribution": {
-        "male": 58,
-        "female": 42
-      },
-      "coreProductOrService": "Beverage",
-      "yearsInOperation": 9,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "",
-      "contactDetails": {
-        "email": "",
-        "phone": "076627514"
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@ninascoffeelove20?_t=ZM-8vTPSKiLXpG&_r=1",
-        "facebook": "https://www.facebook.com/share/17iYH5BAsV/",
-        "instagram": "",
-        "linkedin": ""
       }
     },
     {
@@ -1168,37 +1409,6 @@
       }
     },
     {
-      "id": 54,
-      "logo": "",
-      "name": "Ankara By Dex",
-      "description": "Ankara By Dex is a fashion business that promotes local traditions and culture through fashion and clothing lines. the business design and sew quality fabrics that boost the confidence of its customers in public places and also promote the rich African culturing through their products.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 39,
-      "genderOfOwner": "Female",
-      "workforceNumber": 12,
-      "workforceGenderDistribution": {
-        "male": 50,
-        "female": 50
-      },
-      "coreProductOrService": "Fashion",
-      "yearsInOperation": 5,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "email": "",
-        "phone": "",
-        "website": "http://www.ankarabydex.com"
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/AnkarabyDex",
-        "instagram": "https://instagram.com/ankara_by_dex",
-        "linkedin": ""
-      }
-    },
-    {
       "id": 55,
       "logo": "",
       "name": "Igrow Organics",
@@ -1292,38 +1502,6 @@
       }
     },
     {
-      "id": 58,
-      "logo": "",
-      "name": "FranBeck Designs",
-      "description": "FranBeck Designs is a female-owned clothing brand that designs and produces a variety of clothes for men, women, and children. They also produce customized clothing that meets the specifications of their special clients.",
-      "sector": "Fashion & Beauty",
-      "ownerName": "Francess Beckley",
-      "ageOfOwner": 43,
-      "genderOfOwner": "Female",
-      "workforceNumber": 12,
-      "workforceGenderDistribution": {
-        "male": 40,
-        "female": 60
-      },
-      "coreProductOrService": "Clothing for all ages",
-      "yearsInOperation": 9,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "email": "",
-        "phone": "",
-        "website": "http://www.franbeckdesigns.sl"
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/FranbeckDesigns",
-        "instagram": "https://instagram.com/FranbeckDesigns01",
-        "linkedin": ""
-      }
-    },
-    {
       "id": 59,
       "logo": "",
       "name": "Life of a Canvas",
@@ -1355,68 +1533,6 @@
       }
     },
     {
-      "id": 60,
-      "logo": "",
-      "name": "Dream Trim Couture",
-      "description": "Dream Trim Couture is a female-owned indigenous fashion company that sources, designs, and retails apparel and clothing accessories for men and women of all ages. the business was established in 2021 and has been doing extremely well in producing high-quality products and meeting customers' satisfaction.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 30,
-      "genderOfOwner": "Female",
-      "workforceNumber": 5,
-      "workforceGenderDistribution": {
-        "male": 50,
-        "female": 50
-      },
-      "coreProductOrService": "Apparel and clothing accessories",
-      "yearsInOperation": 1,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "Yes",
-      "businessAddress": "",
-      "contactDetails": {
-        "website": "http://www.dreamtrimcouture.com",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/Dreamtrimcouture",
-        "instagram": "https://instagram.com/Dreamtrimcouture",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 61,
-      "logo": "",
-      "name": "All About Maria",
-      "description": "All About Maria is an event decorating and Kids Entertainment Company that's based in and around Bo Town City. The event decorating side of the business offers weddings, birthdays, events decoration and catering services to both private and corporate clients. Whilst the Kids Entertainment offers outdoor recreational and playground facilities for kids (Maria's Kids Zone).",
-      "sector": "Services",
-      "ageOfOwner": 31,
-      "genderOfOwner": "Male",
-      "workforceNumber": 6,
-      "workforceGenderDistribution": {
-        "male": 51,
-        "female": 49
-      },
-      "coreProductOrService": "Event planning, Decoration, and management",
-      "yearsInOperation": 2,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
       "id": 62,
       "logo": "",
       "name": "BABSI",
@@ -1445,68 +1561,6 @@
         "facebook": "https://facebook.com/BABSI",
         "instagram": "https://instagram.com/BABSI",
         "linkedin": "https://linkedin.com/company/BABSI"
-      }
-    },
-    {
-      "id": 63,
-      "logo": "",
-      "name": "Ballanta Academy of Music and Performing Arts (BAMPA)",
-      "description": "Ballanta Academy of Music and Performing Arts (BAMPA) is a music and performing arts school giving tuition on various musical instruments, organizing events to showcase community talents, and consultation on cultural arts matters nationally and internationally. We provide education for people of all ages who wish to pursue the musical and dance arts. There is currently no other institution of this nature in the country. We also provide advice and support for musical events organized by other entities. We organize workshops, competitions, concerts, and festivals. It is the only private institution involved in the research of indigenous musical arts in the country.",
-      "sector": "Creative",
-      "ageOfOwner": 33,
-      "genderOfOwner": "Female",
-      "workforceNumber": 15,
-      "workforceGenderDistribution": {
-        "male": 50,
-        "female": 50
-      },
-      "coreProductOrService": "Music academy",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "website": "www.ballantaacademy.org",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/BallantaAcademyOfMusic",
-        "instagram": "https://instagram.com/Ballanta_AcademyOfMusic",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 64,
-      "logo": "",
-      "name": "Eminence Africa",
-      "description": "Eminence Africa is a dynamic and innovative multimedia, marketing, and communications company. The company is dedicated to amplifying our clients' visions and helping them achieve their goals in an ever-evolving digital landscape, actualizing imaginative ideas and flourishing brands in the limelight.",
-      "sector": "Creative",
-      "ageOfOwner": 34,
-      "genderOfOwner": "Female",
-      "workforceNumber": 30,
-      "workforceGenderDistribution": {
-        "male": 40,
-        "female": 60
-      },
-      "coreProductOrService": "Digital Marketing, Multimedia, Videography, and more",
-      "yearsInOperation": 5,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Pa Demba Road, Freetown",
-      "contactDetails": {
-        "website": "http://www.eminenceafrica.com",
-        "phone": "",
-        "email": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/EminenceAfricaHoldingCompany",
-        "instagram": "https://instagram.com/eminence_africa",
-        "linkedin": ""
       }
     },
     {
@@ -1725,36 +1779,6 @@
         "facebook": "",
         "instagram": "https://www.instagram.com/mumini_fashion?igsh=ZWVyM2ZnNW9xOGM4",
         "linkedin": ""
-      }
-    },
-    {
-      "id": 72,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/shecures.png?v=1747974017342",
-      "name": "Shecures",
-      "description": "Shecures manufactures reusable sanitary pads that are made from an eco-friendly high-absorbent microfiber and waterproof cotton material. They contain non-harmful chemicals with no fragrance or dyes. Our pads are 100% biodegradable and 100% URV sterilized. In addition, we offer the lowest prices and highest quality too. A short description /illustration book written by us comes with the product to guide clients on how to use the product and provide essential information needed by adolescents about menstruation.",
-      "sector": "Circular Economy",
-      "ageOfOwner": 42,
-      "genderOfOwner": "Female",
-      "workforceNumber": 10,
-      "workforceGenderDistribution": {
-        "male": 30,
-        "female": 70
-      },
-      "coreProductOrService": "Reusable Pads",
-      "yearsInOperation": 4,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "72 Main Street, Freetown",
-      "contactDetails": {
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "facebook": "https://facebook.com/Shecuressanitarypads",
-        "instagram": "https://instagram.com/Shecuressanitarypads",
-        "linkedin": "",
-        "tiktok": ""
       }
     },
     {
