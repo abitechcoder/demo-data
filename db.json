@@ -2287,37 +2287,6 @@
       }
     },
     {
-      "id": 86,
-      "logo": "",
-      "name": "Vicky’s Couture",
-      "description": "A bespoke fashion brand, Vicky’s Couture specializes in custom clothing designs, blending modern trends with African-inspired aesthetics for stylish, one-of-a-kind outfits.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 43,
-      "genderOfOwner": "Male",
-      "workforceNumber": 18,
-      "workforceGenderDistribution": {
-        "male": 63,
-        "female": 37
-      },
-      "coreProductOrService": "Custom clothing designs, blending modern trends with African-inspired aesthetics",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "website": "",
-        "phone": "",
-        "email": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@vickyscouture..16?_t=ZM-8vwNwQiKglS&_r=1",
-        "facebook": "",
-        "instagram": "https://www.instagram.com/vickys.couture?igsh=MWdocDRxdjNxOXgwOA==",
-        "linkedin": ""
-      }
-    },
-    {
       "id": 87,
       "logo": "",
       "name": "Amena’s Couture",
