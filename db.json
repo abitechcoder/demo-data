@@ -482,14 +482,14 @@
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "72 Main Street, Freetown",
+      "businessAddress": "",
       "contactDetails": {
         "email": "",
         "phone": ""
       },
       "socialMediaLinks": {
-        "facebook": "https://facebook.com/Shecuressanitarypads",
-        "instagram": "https://instagram.com/Shecuressanitarypads",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/she.cures?igsh=MWZ5Y200Zm50aW44Yw==",
         "linkedin": "",
         "tiktok": ""
       }
@@ -737,7 +737,7 @@
     {
       "id": 23,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/vicky-couture.png?v=1748278366951",
-      "name": "Vicky's Couture",
+      "name": "Vicky’s Couture",
       "description": "Vicky's Couture is crafted with purpose and made in Salone. We create high-quality, sustainable pieces that empower and express your unique style.",
       "sector": 9,
       "ageOfOwner": 38,
@@ -796,7 +796,7 @@
     },
     {
       "id": 25,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/nicosta.png?v=1748348719691",
       "name": "Nicosta Initiative",
       "description": "NICOSTA INITIATIVE is an initiative that recycles waste materials like old tires into furniture, water bottles into women's bracelets, cartoons into decorative materials, alternative use of single-use plastic to that of cotton bags, etc . NICOSTA INITIATIVE is there to protect the environment and empower vulnerable women and girls.",
       "sector": 5,
@@ -1379,11 +1379,11 @@
       }
     },
     {
-      "id": 39,
+      "id": 47,
       "logo": "",
-      "name": "Estamos Sewing",
-      "description": "Made in Salone with love and care for your home and personal use. Original designs and high-quality items for your home and more.",
-      "sector": "Fashion & Beauty",
+      "name": "Shekam Briquette Making Enterprise",
+      "description": "Shekam Briquette Making Enterprise transforms organic waste into briquettes for cooking in households and commercial industries. The product serves as a more affordable source of energy, which also provides and promotes clean and healthy living conditions for communities in Sierra Leone.",
+      "sector": 5,
       "ageOfOwner": 39,
       "genderOfOwner": "Female",
       "workforceNumber": 24,
@@ -1391,12 +1391,12 @@
         "male": 69,
         "female": 31
       },
-      "coreProductOrService": "Core offering of Estamos Sewing",
+      "coreProductOrService": "Briquette bio charcoal ",
       "yearsInOperation": 10,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "39 Main Street, Freetown",
+      "businessAddress": "",
       "contactDetails": {
         "website": "",
         "email": "",
@@ -1404,358 +1404,17 @@
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "https://facebook.com/EstamosSewing",
-        "instagram": "https://instagram.com/EstamosSewing",
-        "linkedin": "https://linkedin.com/company/EstamosSewing"
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
       }
     },
     {
-      "id": 46,
-      "logo": "",
-      "name": "Queenest Organic Herbal",
-      "description": "Queenest Organic Herbal is an anti-aging product, meant to revitalize the skin and make it younger. It treats spots, pimples, stretch marks, ringworm, and dandruff and grows hair.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 31,
-      "genderOfOwner": "Male",
-      "workforceNumber": 11,
-      "workforceGenderDistribution": {
-        "male": 56,
-        "female": 44
-      },
-      "coreProductOrService": "Core offering of Queenest Organic Herbal",
-      "yearsInOperation": 7,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "46 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/QueenestOrganicHerbal",
-        "instagram": "https://instagram.com/QueenestOrganicHerbal",
-        "linkedin": "https://linkedin.com/company/QueenestOrganicHerbal"
-      }
-    },
-    {
-      "id": 49,
-      "logo": "",
-      "name": "Lyly's Eats",
-      "description": "Lyly's Eats is a female-owned catering service startup established in  2021. the business specializes in preparing home-cooked food, especially local dishes and snacks.",
-      "sector": "Tourism",
-      "ageOfOwner": 34,
-      "genderOfOwner": "Male",
-      "workforceNumber": 14,
-      "workforceGenderDistribution": {
-        "male": 59,
-        "female": 41
-      },
-      "coreProductOrService": "Core offering of Lyly's Eats",
-      "yearsInOperation": 10,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "49 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/Lyly'sEats",
-        "instagram": "https://instagram.com/Lyly'sEats",
-        "linkedin": "https://linkedin.com/company/Lyly'sEats"
-      }
-    },
-    {
-      "id": 50,
-      "logo": "",
-      "name": "Lyoa Sourced Company Ltd",
-      "description": "Lyoa Sourced Company Ltd is an agro-processing business established in 2018 by a dynamic young female entrepreneur named Juliana Sesay.  the business works with local farmers where they get the freshly harvested produce and add value to them through processing, branding and marketing.",
-      "sector": "Food & Agro Processing",
-      "ageOfOwner": 35,
-      "genderOfOwner": "Male",
-      "workforceNumber": 15,
-      "workforceGenderDistribution": {
-        "male": 60,
-        "female": 40
-      },
-      "coreProductOrService": "Core offering of Lyoa Sourced Company Ltd",
-      "yearsInOperation": 1,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "Yes",
-      "businessAddress": "50 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/LyoaSourcedCompanyLtd",
-        "instagram": "https://instagram.com/LyoaSourcedCompanyLtd",
-        "linkedin": "https://linkedin.com/company/LyoaSourcedCompanyLtd"
-      }
-    },
-    {
-      "id": 51,
-      "logo": "",
-      "name": "Crafty Bee",
-      "description": "Is a fashion Brand that produces unique African Design bags and accessories we also do short skills training programs empowering youths from different communities in Sierra Leone.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 36,
-      "genderOfOwner": "Female",
-      "workforceNumber": 16,
-      "workforceGenderDistribution": {
-        "male": 61,
-        "female": 39
-      },
-      "coreProductOrService": "Core offering of Crafty Bee",
-      "yearsInOperation": 2,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "51 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/CraftyBee",
-        "instagram": "https://instagram.com/CraftyBee",
-        "linkedin": "https://linkedin.com/company/CraftyBee"
-      }
-    },
-    {
-      "id": 52,
-      "logo": "",
-      "name": "Orkosu Organic Herbal Teas",
-      "description": "Orkosu is a Sierra Leonean tea brand that brings you fusions of naturally flavored, exotic, immune-system-boosting herbal blends, organically grown and handpicked by local women farmers, processed a packaged locally. At Orkosu, we are dedicated to four key pillars; supporting local women farmers, promoting organic farming practices, food security, and well-being. Our mission is to source the finest herbs for our herbal tea blends, promote well-being and positively impact our environment and communities.",
-      "sector": "Others",
-      "ageOfOwner": 37,
-      "genderOfOwner": "Male",
-      "workforceNumber": 17,
-      "workforceGenderDistribution": {
-        "male": 62,
-        "female": 38
-      },
-      "coreProductOrService": "Core offering of Orkosu Organic Herbal Teas",
-      "yearsInOperation": 3,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "52 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/OrkosuOrganicHerbalTeas",
-        "instagram": "https://instagram.com/OrkosuOrganicHerbalTeas",
-        "linkedin": "https://linkedin.com/company/OrkosuOrganicHerbalTeas"
-      }
-    },
-    {
-      "id": 53,
-      "logo": "",
-      "name": "Mama Lu",
-      "description": "Mama Lu is a female-owned startup that operates as a restaurant. the business offers delicious and moth watering delicacies to meet the demand of its customers. they prepare snacks, and African dishes, and as well sell assorted beverages.",
-      "sector": "Food & Agro Processing",
-      "ageOfOwner": 38,
-      "genderOfOwner": "Male",
-      "workforceNumber": 18,
-      "workforceGenderDistribution": {
-        "male": 63,
-        "female": 37
-      },
-      "coreProductOrService": "Core offering of Mama Lu",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "53 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/MamaLu",
-        "instagram": "https://instagram.com/MamaLu",
-        "linkedin": "https://linkedin.com/company/MamaLu"
-      }
-    },
-    {
-      "id": 55,
-      "logo": "",
-      "name": "Igrow Organics",
-      "description": "Igrow Organics is a cosmetology business that formulates hair and skin care products. the business was established by a young lady in 2016 and since then, the business has steadily grown and improved. Igrow products are certified and approved by the standard bureau and the local content agency of Sierra Leone.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 40,
-      "genderOfOwner": "Male",
-      "workforceNumber": 20,
-      "workforceGenderDistribution": {
-        "male": 65,
-        "female": 35
-      },
-      "coreProductOrService": "Core offering of Igrow Organics",
-      "yearsInOperation": 6,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "Yes",
-      "businessAddress": "55 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/IgrowOrganics",
-        "instagram": "https://instagram.com/IgrowOrganics",
-        "linkedin": "https://linkedin.com/company/IgrowOrganics"
-      }
-    },
-    {
-      "id": 56,
-      "logo": "",
-      "name": "Ofino Naturals Ltd",
-      "description": "Ofino Naturals Ltd is a cosmetic business established in the late year 2000 but was later rebranded in 2014 by a young and dynamic female cosmetologist who took over the family business and transformed it into one of the oldest and best natural hair and skin care product manufacturers in Sierra Leone.",
-      "sector": "",
-      "ageOfOwner": 41,
-      "genderOfOwner": "Male",
-      "workforceNumber": 21,
-      "workforceGenderDistribution": {
-        "male": 66,
-        "female": 34
-      },
-      "coreProductOrService": "Core offering of Ofino Naturals Ltd",
-      "yearsInOperation": 7,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "56 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/OfinoNaturalsLtd",
-        "instagram": "https://instagram.com/OfinoNaturalsLtd",
-        "linkedin": "https://linkedin.com/company/OfinoNaturalsLtd"
-      }
-    },
-    {
-      "id": 57,
-      "logo": "",
-      "name": "Lambano SL Ltd ",
-      "description": "Lambano SL Ltd is a health and wellness brand that processes and sells authentic organic foodstuffs such as natural organic local food, Organic honey, herbal tea, and many more.",
-      "sector": "Food & Agro Processing",
-      "ageOfOwner": 42,
-      "genderOfOwner": "Female",
-      "workforceNumber": 22,
-      "workforceGenderDistribution": {
-        "male": 67,
-        "female": 33
-      },
-      "coreProductOrService": "Core offering of Lambano SL Ltd ",
-      "yearsInOperation": 8,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "57 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/LambanoSLLtd",
-        "instagram": "https://instagram.com/LambanoSLLtd",
-        "linkedin": "https://linkedin.com/company/LambanoSLLtd"
-      }
-    },
-    {
-      "id": 59,
-      "logo": "",
-      "name": "Life of a Canvas",
-      "description": "Life of a Canvas is a female-owned startup that specializes in art design and canvas painting. The business also customizes shoes, bags, and other clothing products.",
-      "sector": "Creative",
-      "ageOfOwner": 44,
-      "genderOfOwner": "Male",
-      "workforceNumber": 24,
-      "workforceGenderDistribution": {
-        "male": 69,
-        "female": 31
-      },
-      "coreProductOrService": "Core offering of Life of a Canvas",
-      "yearsInOperation": 10,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "59 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/LifeofaCanvas",
-        "instagram": "https://instagram.com/LifeofaCanvas",
-        "linkedin": "https://linkedin.com/company/LifeofaCanvas"
-      }
-    },
-    {
-      "id": 62,
-      "logo": "",
-      "name": "BABSI",
-      "description": "BABSI is a design and fashion business that produces a wide range of products, including men's and women's bags, sandals, slippers, belts, pouches, and school bags. Our products are made using durable and affordable materials, and we take pride in using a variety of finished and unfinished products as raw materials to ensure the high quality of our products.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 32,
-      "genderOfOwner": "Male",
-      "workforceNumber": 7,
-      "workforceGenderDistribution": {
-        "male": 52,
-        "female": 48
-      },
-      "coreProductOrService": "Core offering of BABSI",
-      "yearsInOperation": 3,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "62 Main Street, Freetown",
-      "contactDetails": {
-        "website": "",
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "https://facebook.com/BABSI",
-        "instagram": "https://instagram.com/BABSI",
-        "linkedin": "https://linkedin.com/company/BABSI"
-      }
-    },
-    {
-      "id": 73,
+      "id": 48,
       "logo": "",
       "name": "HQ",
       "description": "HQ is a dynamic visual art startup in Sierra Leone that celebrates creativity through innovative designs, digital art, and traditional mediums. The brand focuses on storytelling through visuals, offering bespoke artwork, prints, and collaborations that highlight Sierra Leonean culture and contemporary themes. HQ aims to empower local artists while making art accessible to a broader audience.",
-      "sector": "Creative",
+      "sector": 3,
       "ownerName": "Thomasia Lewis",
       "ageOfOwner": 43,
       "genderOfOwner": "Female",
@@ -1783,11 +1442,11 @@
       }
     },
     {
-      "id": 74,
+      "id": 49,
       "logo": "",
       "name": "Biani’s Art",
       "description": "Biani’s Art is a rising visual arts startup dedicated to showcasing Sierra Leonean heritage through paintings, illustrations, and digital media. Founded by a passionate artist, the brand merges traditional African aesthetics with modern techniques, creating pieces that resonate with local and international audiences. Biani’s Art also engages in community art projects and workshops to nurture emerging talent.",
-      "sector": "Creative",
+      "sector": 3,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1798,7 +1457,7 @@
       "coreProductOrService": "Visual arts",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "",
       "contactDetails": {
@@ -1814,11 +1473,11 @@
       }
     },
     {
-      "id": 75,
+      "id": 50,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/bloomer-era.png?v=1747938784318",
-      "name": "Bloomer’s Era  ",
+      "name": "Bloomer’s Era",
       "description": "Bloomers Era is a vibrant fashion and lifestyle brand that blends Afrocentric designs with contemporary trends. Specializing in ready-to-wear clothing, accessories, and statement pieces, the startup emphasizes bold prints, sustainability, and cultural pride. Bloomer’s Era caters to young, fashion-forward individuals seeking unique, locally made apparel.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1829,7 +1488,7 @@
       "coreProductOrService": "Ready-to-wear clothing, accessories, and statement piece",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "",
       "contactDetails": {
@@ -1845,11 +1504,11 @@
       }
     },
     {
-      "id": 76,
+      "id": 51,
       "logo": "",
       "name": "Raitu’s Stitches",
       "description": "Raitu’s Stitches is a fashion and textile brand known for its handcrafted garments, custom tailoring, and Afro-inspired collections. Using locally sourced fabrics and intricate detailing, the startup offers stylish, high-quality clothing for men and women. Raitu’s Stitches promotes slow fashion, empowering local artisans while delivering elegance and cultural authenticity.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1876,11 +1535,11 @@
       }
     },
     {
-      "id": 77,
-      "logo": "",
+      "id": 52,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/superior-elegance.png?v=1748338984192",
       "name": "Superior Elegance",
       "description": "Superior Elegance is a premium fashion brand specializing in sophisticated, tailor-made outfits for formal and ceremonial occasions. With a focus on luxury textiles, meticulous craftsmanship, and timeless designs, the startup caters to clients seeking refined, custom-fitted attire. Superior Elegance combines modern trends with traditional Sierra Leonean influences, setting a high standard in bespoke fashion.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1907,11 +1566,11 @@
       }
     },
     {
-      "id": 78,
+      "id": 53,
       "logo": "",
       "name": "Motel Creative Park (Tonkolili District)",
       "description": "A dynamic open-field entertainment hub, Motel Creative Park provides a space for young creatives to showcase their talents in music, art, and performance. By fostering creativity and offering a platform for emerging artists, this startup is transforming Tonkolili into a hotspot for cultural expression.",
-      "sector": "Creative",
+      "sector": 6,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1938,11 +1597,11 @@
       }
     },
     {
-      "id": 79,
+      "id": 54,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/kupaa-media.png?v=1747938774135",
       "name": "Kupaa Media",
       "description": "Specializing in videography, photography, and digital content creation, Kupaa Media captures stories through a creative lens. From corporate branding to event coverage, they help businesses and individuals tell their stories visually.",
-      "sector": "Creative",
+      "sector": 12,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1969,11 +1628,11 @@
       }
     },
     {
-      "id": 80,
+      "id": 55,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/her-craft.png?v=1747974691213",
       "name": "Her Craft Creation",
       "description": "Turning waste into wonder, Her Craft Creation upcycles used tires and discarded materials into stylish, eco-friendly furniture. This sustainable startup is redefining interior design while promoting environmental consciousness.",
-      "sector": "Creative",
+      "sector": 5,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -1981,10 +1640,10 @@
         "male": 63,
         "female": 37
       },
-      "coreProductOrService": "Interior design services",
+      "coreProductOrService": "",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
+      "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
       "businessAddress": "",
       "contactDetails": {
@@ -2000,11 +1659,11 @@
       }
     },
     {
-      "id": 81,
+      "id": 56,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/melart.png?v=1747938760542",
       "name": "MelArt Design",
       "description": "A creative powerhouse in art and design, MelArt Design produces unique handcrafted pieces, from paintings to decorative arts, blending traditional and contemporary aesthetics.",
-      "sector": "Creative",
+      "sector": 3,
       "ageOfOwner": 43,
       "genderOfOwner": "Female",
       "workforceNumber": 18,
@@ -2031,11 +1690,11 @@
       }
     },
     {
-      "id": 82,
+      "id": 57,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/ice-creative.png?v=1747938750517",
       "name": "ICE Creative Multimedia",
       "description": "A full-service digital media company, ICE Creative Multimedia specializes in videography, photography, and digital content creation, helping brands elevate their visual identity with professional-grade productions.",
-      "sector": "Creative",
+      "sector": 12,
       "ownerName": "Isata Kamara",
       "ageOfOwner": 43,
       "genderOfOwner": "Female",
@@ -2063,11 +1722,11 @@
       }
     },
     {
-      "id": 83,
+      "id": 58,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/talk-with-ria.png?v=1747938742915",
       "name": "Talk with Ria",
       "description": "A digital storytelling platform, Talk with Ria focuses on podcasts, documentaries, and engaging content that sparks conversations on culture, lifestyle, and social issues.",
-      "sector": "Creative",
+      "sector": 12,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2094,11 +1753,11 @@
       }
     },
     {
-      "id": 84,
+      "id": 59,
       "logo": "",
       "name": "Binta Queen",
       "description": "A digital marketing and content creation startup, Binta Queen crafts compelling online campaigns and social media strategies to help brands connect with their audiences effectively.",
-      "sector": "Creative",
+      "sector": 7,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2125,11 +1784,11 @@
       }
     },
     {
-      "id": 85,
+      "id": 60,
       "logo": "",
       "name": "I’m Karry",
       "description": "An artist, musician, and talent manager, I’m Karry supports emerging musicians and creatives, offering artist development, music production, and performance opportunities.",
-      "sector": "Creative",
+      "sector": 14,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2137,7 +1796,7 @@
         "male": 63,
         "female": 37
       },
-      "coreProductOrService": "supports emerging musicians and creatives",
+      "coreProductOrService": "Supports emerging musicians and creatives",
       "yearsInOperation": 4,
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Unregistered",
@@ -2156,73 +1815,11 @@
       }
     },
     {
-      "id": 86,
-      "logo": "",
-      "name": "Vicky’s Couture",
-      "description": "A bespoke fashion brand, Vicky’s Couture specializes in custom clothing designs, blending modern trends with African-inspired aesthetics for stylish, one-of-a-kind outfits.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 43,
-      "genderOfOwner": "Male",
-      "workforceNumber": 18,
-      "workforceGenderDistribution": {
-        "male": 63,
-        "female": 37
-      },
-      "coreProductOrService": "Custom clothing designs, blending modern trends with African-inspired aesthetics",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "website": "",
-        "phone": "",
-        "email": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@vickyscouture..16?_t=ZM-8vwNwQiKglS&_r=1",
-        "facebook": "",
-        "instagram": "https://www.instagram.com/vickys.couture?igsh=MWdocDRxdjNxOXgwOA==",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 87,
-      "logo": "",
-      "name": "Amena’s Couture",
-      "description": "A digital marketing and content creation startup, Binta Queen crafts compelling online campaigns and social media strategies to help brands connect with their audiences effectively.",
-      "sector": "Fashion & Beauty",
-      "ageOfOwner": 43,
-      "genderOfOwner": "Female",
-      "workforceNumber": 18,
-      "workforceGenderDistribution": {
-        "male": 63,
-        "female": 37
-      },
-      "coreProductOrService": "Africana fashionable dresses and quality fabrics",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Wilberforce Village",
-      "contactDetails": {
-        "website": "",
-        "phone": "",
-        "email": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@amenacouture1?_t=ZM-8vwOLzC5l4P&_r=1",
-        "facebook": "",
-        "instagram": "https://www.instagram.com/amenacouture?igsh=czB1M2I0bjQxM2s=2,000",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 88,
+      "id": 62,
       "logo": "",
       "name": "Viola’s Stitches",
       "description": "A clothing brand dedicated to craftsmanship, Viola’s Stitches creates trendy and durable fashion wear, catering to both casual and formal style needs.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2249,11 +1846,11 @@
       }
     },
     {
-      "id": 89,
+      "id": 63,
       "logo": "",
       "name": "Tigie Daema",
       "description": "Tigie Deama is a brand dedicated to talent scouting and management. The organization concentrates on developing emerging musical artists, providing recruitment and comprehensive management services to facilitate their rise to prominence within the entertainment sector. Addressing a noted deficiency in artist management within Sierra Leone's entertainment industry, Tigie Deama was founded to fulfill this critical role.",
-      "sector": "Fashion & Beauty",
+      "sector": 14,
       "ageOfOwner": 43,
       "genderOfOwner": "Female",
       "workforceNumber": 18,
@@ -2280,11 +1877,11 @@
       }
     },
     {
-      "id": 90,
-      "logo": "",
+      "id": 64,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/clamata.png?v=1748348349698",
       "name": "Clamata’s Design ",
       "description": "A fashion-forward brand, Clamata’s Design produces elegant clothing and accessories, emphasizing detail, comfort, and sophistication.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2311,11 +1908,11 @@
       }
     },
     {
-      "id": 91,
-      "logo": "",
+      "id": 65,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/d-label.png?v=1748348434181",
       "name": "D-Label",
       "description": "Focused exclusively on women’s fashion, D-Label offers trendy clothing and accessories designed to empower and inspire confidence.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2342,42 +1939,11 @@
       }
     },
     {
-      "id": 92,
-      "logo": "",
-      "name": "Nicosta Initiative",
-      "description": "An eco-conscious brand, Nicosta Initiative transforms waste materials like plastics and fabrics into stylish bags, shoes, and belts, proving that fashion can be both chic and sustainable.",
-      "sector": "Circular Economy",
-      "ageOfOwner": 43,
-      "genderOfOwner": "Female",
-      "workforceNumber": 18,
-      "workforceGenderDistribution": {
-        "male": 63,
-        "female": 37
-      },
-      "coreProductOrService": "Recycled bags, shoes, belts, and customized items",
-      "yearsInOperation": 4,
-      "revenueBracket": "$50,000 - $100,000",
-      "registrationStatus": "Registered",
-      "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
-      "contactDetails": {
-        "website": "",
-        "phone": "",
-        "email": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@nicosta.initiativ?_t=ZM-8vwQWFuipzp&_r=1",
-        "facebook": "https://www.facebook.com/share/v/1APup84fZm/?mibextid=wwXIfr",
-        "instagram": "https://www.instagram.com/nicostainitiative?igsh=MXV6NjRvemQwdDdkNw==",
-        "linkedin": ""
-      }
-    },
-    {
-      "id": 93,
-      "logo": "",
+      "id": 67,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/saint-john.png?v=1748349805130",
       "name": "Saint John Clothing",
       "description": "Dedicated to quality craftsmanship, Saint John Clothing produces refined apparel and accessories, catering to fashion enthusiasts who appreciate timeless style.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
       "workforceNumber": 18,
@@ -2404,11 +1970,11 @@
       }
     },
     {
-      "id": 94,
-      "logo": "",
+      "id": 68,
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/mimi-design.png?v=1748348575015",
       "name": "Mimi’s Sewing Design",
       "description": "A custom fashion brand, Mimi’s Sewing Design specializes in bespoke clothing, offering tailored designs that reflect personal style and creativity.",
-      "sector": "Fashion & Beauty",
+      "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Female",
       "workforceNumber": 18,
@@ -2432,6 +1998,68 @@
         "facebook": "",
         "instagram": "https://www.instagram.com/mimi_sewing_design?igsh=MWw1dzdzYTc3b2Q1eQ==",
         "linkedin": ""
+      }
+    },
+    {
+      "id": 69,
+      "logo": "",
+      "name": "BABSI",
+      "description": "BABSI is a design and fashion business that produces a wide range of products, including men's and women's bags, sandals, slippers, belts, pouches, and school bags. Our products are made using durable and affordable materials, and we take pride in using a variety of finished and unfinished products as raw materials to ensure the high quality of our products.",
+      "sector": 5,
+      "ageOfOwner": 32,
+      "genderOfOwner": "Male",
+      "workforceNumber": 7,
+      "workforceGenderDistribution": {
+        "male": 52,
+        "female": 48
+      },
+      "coreProductOrService": "Core offering of BABSI",
+      "yearsInOperation": 3,
+      "revenueBracket": "$10,000 - $50,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "62 Main Street, Freetown",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/BABSI",
+        "instagram": "https://instagram.com/BABSI",
+        "linkedin": "https://linkedin.com/company/BABSI"
+      }
+    },
+    {
+      "id": 70,
+      "logo": "",
+      "name": "Life of a Canvas",
+      "description": "Life of a Canvas is a female-owned startup that specializes in art design and canvas painting. The business also customizes shoes, bags, and other clothing products.",
+      "sector": 3,
+      "ageOfOwner": 44,
+      "genderOfOwner": "Male",
+      "workforceNumber": 24,
+      "workforceGenderDistribution": {
+        "male": 69,
+        "female": 31
+      },
+      "coreProductOrService": "Core offering of Life of a Canvas",
+      "yearsInOperation": 10,
+      "revenueBracket": "$50,000 - $100,000",
+      "registrationStatus": "Registered",
+      "disabilityInclusion": "No",
+      "businessAddress": "59 Main Street, Freetown",
+      "contactDetails": {
+        "website": "",
+        "email": "",
+        "phone": ""
+      },
+      "socialMediaLinks": {
+        "tiktok": "",
+        "facebook": "https://facebook.com/LifeofaCanvas",
+        "instagram": "https://instagram.com/LifeofaCanvas",
+        "linkedin": "https://linkedin.com/company/LifeofaCanvas"
       }
     }
   ]
