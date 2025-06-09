@@ -258,7 +258,7 @@
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/bokutok.png?v=1747974290952",
       "name": "Bokutok TV",
       "description": "A digital media platform that produces and streams local content, including entertainment, education, and news. Bokutok. TV aims to become Sierra Leone's leading digital media hub.",
-      "sector": "12",
+      "sector": 12,
       "ownerName": "Alpha Janneh",
       "ageOfOwner": 38,
       "genderOfOwner": "Male",
