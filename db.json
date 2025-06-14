@@ -102,37 +102,6 @@
       }
     },
     {
-      "id": 2,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/her-craft.png?v=1747974691213",
-      "name": "Her Craft Innovation",
-      "description": "A female-led startup focused on the recycling of old tires and empowering women through craft-making and innovation. Her Craft Innovation produces handmade products while integrating digital tools to expand market reach and streamline operations.",
-      "sector": 5,
-      "ownerName": "",
-      "ageOfOwner": 33,
-      "genderOfOwner": "Female",
-      "workforceNumber": 23,
-      "workforceGenderDistribution": {
-        "male": 68,
-        "female": 32
-      },
-      "coreProductOrService": "Outdoor furniture made from old tires",
-      "yearsInOperation": 9,
-      "revenueBracket": "$10,000 - $50,000",
-      "registrationStatus": "Unregistered",
-      "disabilityInclusion": "No",
-      "businessAddress": "8 Middle Street Waterloo",
-      "contactDetails": {
-        "email": "",
-        "phone": ""
-      },
-      "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@hercraftinnovation2?_t=ZM-8vTLkoXyz8o&_r=1",
-        "facebook": "",
-        "instagram": "",
-        "linkedin": ""
-      }
-    },
-    {
       "id": 3,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/millet-agric.png?v=1747974631100",
       "name": "Millet Agricultural Service",
@@ -157,7 +126,7 @@
         "phone": "076124225"
       },
       "socialMediaLinks": {
-        "facebook": "",
+        "facebook": "https://www.facebook.com/people/Millet-Agricultural-Service/61552210621024/",
         "instagram": "https://www.instagram.com/milletagricultural?igsh=MWFkZjFxOWNxOWhkNA==",
         "linkedin": "",
         "tiktok": ""
@@ -183,14 +152,16 @@
       "disabilityInclusion": "Yes",
       "businessAddress": "7 Bintumani Drive, Aberdeen",
       "contactDetails": {
-        "email": "simone.brown@gmail.com",
-        "phone": "+23290413395"
+        "email": "info@fambulglobal.com",
+        "phone": "+(033) 327714"
       },
       "socialMediaLinks": {
         "facebook": "",
         "instagram": "https://www.instagram.com/fambulglobal?igsh=MXhzbWNxYWw1ZW5mbA==",
         "linkedin": "",
-        "tiktok": "https://www.tiktok.com/@fambulglobal?_t=ZM-8wUKZpLqa5m&_r=1"
+        "tiktok": "https://www.tiktok.com/@fambulglobal?_t=ZM-8wUKZpLqa5m&_r=1",
+        "twitter": "https://x.com/fambulglobal",
+        "youtube": "https://youtube.com/@fambul_global"
       }
     },
     {
@@ -280,7 +251,7 @@
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@bokutok.tv?_t=ZM-8vTLu9uAOLn&_r=1",
         "facebook": "https://www.facebook.com/share/18oMDdPX1N/",
-        "instagram": "",
+        "instagram": "https://www.instagram.com/bokutok_tv/?hl=en",
         "linkedin": ""
       }
     },
@@ -334,13 +305,13 @@
       "disabilityInclusion": "Yes",
       "businessAddress": "19B Nylender Street, Aberdeen",
       "contactDetails": {
-        "email": "guriemih@gamil.com",
+        "email": "makeithappen.salone@gmail.com",
         "phone": "+23231990766"
       },
       "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@makeehappenrecords?_t=ZM-8wUL4aF3ytU&_r=1",
-        "facebook": "",
-        "instagram": "",
+        "tiktok": "https://www.tiktok.com/@makeehappenrecords",
+        "facebook": "https://www.facebook.com/profile.php?id=61564929682484",
+        "instagram": "https://www.instagram.com/make.e.happen_records",
         "linkedin": ""
       }
     },
@@ -369,8 +340,8 @@
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@maid4usl?_t=ZM-8vTMAjarJ9J&_r=1",
-        "facebook": "https://www.facebook.com/share/1EUazCZz7G/",
-        "instagram": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/maid4usl/",
         "linkedin": ""
       }
     },
@@ -406,7 +377,7 @@
     },
     {
       "id": 12,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/amena-couture.png?v=1747938732576",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Amena's%20Couture.png?v=1749923070077",
       "name": "Amena's Couture",
       "description": "A fashion startup specializing in bespoke clothing and accessories. Amena's Couture uses digital tools to showcase designs, manage orders, and reach a global audience.",
       "sector": 9,
@@ -429,7 +400,7 @@
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@amenacouture1?_t=ZM-8vwOLzC5l4P&_r=1",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/amenacouture",
         "instagram": "https://www.instagram.com/amenacouture?igsh=czB1M2I0bjQxM2s=2,000",
         "linkedin": ""
       }
@@ -488,7 +459,7 @@
         "phone": ""
       },
       "socialMediaLinks": {
-        "facebook": "",
+        "facebook": "https://www.facebook.com/Shecuressanitarypads/",
         "instagram": "https://www.instagram.com/she.cures?igsh=MWZ5Y200Zm50aW44Yw==",
         "linkedin": "",
         "tiktok": ""
@@ -496,7 +467,7 @@
     },
     {
       "id": 15,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Vicra's%20Fresh%20Catch.jpg?v=1749923355804",
       "name": "Vicra's Fresh Catch",
       "description": "A seafood startup that sources and delivers fresh fish and seafood to consumers. Vicra's Fresh Catch uses digital tools to improve supply chain efficiency and ensure timely deliveries.",
       "sector": 2,
@@ -557,8 +528,8 @@
     {
       "id": 17,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/okride.png?v=1748274814764",
-      "name": "OkRide Delivery Service",
-      "description": "A logistics startup offering reliable and affordable delivery services. OkRide uses a digital platform to connect customers with delivery agents, ensuring efficient and transparent service.",
+      "name": "Okride & Logistics",
+      "description": "A logistics startup offering reliable and affordable delivery services. OkRide & Logistics uses a digital platform to connect customers with delivery agents, ensuring efficient and transparent service.",
       "sector": 11,
       "ageOfOwner": 32,
       "genderOfOwner": "Male",
@@ -578,7 +549,7 @@
         "phone": ""
       },
       "socialMediaLinks": {
-        "facebook": "",
+        "facebook": "https://www.facebook.com/okridesl/",
         "instagram": "https://www.instagram.com/okridedelivery?igsh=NWg3emx3bDEybmd0",
         "linkedin": "",
         "tiktok": ""
@@ -586,9 +557,9 @@
     },
     {
       "id": 18,
-      "logo": "",
-      "name": "Shades of Esther",
-      "description": "A beauty and cosmetics startup that produces high-quality skincare and makeup products. Shades of Esther uses digital tools to market its products and engage with customers online.",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/April%20Beauty%20Spa.jpg?v=1749923674583",
+      "name": "April Beauty & Spa Ltd",
+      "description": "A beauty and cosmetics startup that produces high-quality skincare and makeup products. April Beauty & Spa Ltd uses digital tools to market its products and engage with customers online.",
       "sector": 4,
       "ageOfOwner": 33,
       "genderOfOwner": "Female",
@@ -604,13 +575,13 @@
       "disabilityInclusion": "No",
       "businessAddress": "9 Freetown Road, Lumley",
       "contactDetails": {
-        "email": "queenesto2020@gmail.com",
+        "email": "aprilbeautyspaltd@gmail.com",
         "phone": "+23274644993"
       },
       "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@aprilbeautyspaltd?_t=ZM-8vTMoQrGrYN&_r=1",
-        "facebook": "",
-        "instagram": "",
+        "tiktok": "https://www.tiktok.com/@aprilbeautyspaltd",
+        "facebook": "https://www.facebook.com/AprilBeauty&SpaLtd",
+        "instagram": "https://www.instagram.com/aprilbeautyandspaltd",
         "linkedin": ""
       }
     },
@@ -639,8 +610,8 @@
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@manikene1?_t=ZM-8vTMzC6WegQ&_r=1",
-        "facebook": "https://www.facebook.com/share/16FvBYHxos/",
-        "instagram": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/mani_kene/?hl=en",
         "linkedin": ""
       }
     },
@@ -706,7 +677,7 @@
     },
     {
       "id": 22,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Tech%20Link%20Us.png?v=1749924085170",
       "name": "Tech Link Us",
       "description": "Tech Link Us is a freelance software development startup established in Sierra Leone by Young Tech Developers. The business specializes in web development, App Development, and developing software tools for other businesses and organizations.",
       "sector": 16,
@@ -736,7 +707,7 @@
     },
     {
       "id": 23,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/vicky-couture.png?v=1748278366951",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Vicky's%20Couture.jpg?v=1749924097075",
       "name": "Vicky’s Couture",
       "description": "Vicky's Couture is crafted with purpose and made in Salone. We create high-quality, sustainable pieces that empower and express your unique style.",
       "sector": 9,
@@ -760,7 +731,7 @@
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@vickyscouture..16?_t=ZM-8vTNAye3TRW&_r=1",
         "facebook": "https://www.facebook.com/share/16FsW4VSFs/",
-        "instagram": "",
+        "instagram": "https://www.instagram.com/vickys.couture/",
         "linkedin": ""
       }
     },
@@ -788,9 +759,9 @@
         "phone": "078922779"
       },
       "socialMediaLinks": {
-        "tiktok": "",
-        "facebook": "",
-        "instagram": "",
+        "tiktok": "https://www.tiktok.com/@jferitej",
+        "facebook": "https://www.facebook.com/JFEritej",
+        "instagram": "https://www.instagram.com/jfetritej/",
         "linkedin": ""
       }
     },
@@ -1652,9 +1623,9 @@
         "email": ""
       },
       "socialMediaLinks": {
-        "tiktok": "https://vm.tiktok.com/ZMBcn153h/",
+        "tiktok": "https://www.tiktok.com/@hercraftcreations",
         "facebook": "",
-        "instagram": "https://www.instagram.com/hercraftcreations?igsh=bGs4MzRxdXVkcHU3",
+        "instagram": "https://www.instagram.com/hercraftcreations/",
         "linkedin": ""
       }
     },
