@@ -14,7 +14,7 @@
     },
     {
       "id": 4,
-      "title": "Beauty"
+      "title": "Hair & Beauty"
     },
     {
       "id": 5,
@@ -820,8 +820,8 @@
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "https://www.facebook.com/share/15zUn9bXd3/",
-        "instagram": "",
+        "facebook": "https://www.facebook.com/people/Soles-Sparkles/100065121587084/",
+        "instagram": "https://www.instagram.com/soles_and_sparkles/",
         "linkedin": ""
       }
     },
@@ -850,14 +850,14 @@
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "https://www.facebook.com/share/1Fpw7ujVHC/",
-        "instagram": "",
+        "facebook": "https://www.facebook.com/kujulsnaturalssl/",
+        "instagram": "https://www.instagram.com/kujulsnaturals/",
         "linkedin": ""
       }
     },
     {
       "id": 29,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Shea%20%26%20More.png?v=1749960673917",
       "name": "Shea & More Naturals",
       "description": "Shea & More Naturals products are formulated with locally sourced raw ingredients to grow your natural hair and rejuvenate your skin, leaving it nourished and glowing.",
       "sector": 4,
@@ -880,9 +880,10 @@
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@sheaandmorenaturals?_t=ZM-8vTQ6tPrLcd&_r=1",
-        "facebook": "https://www.facebook.com/share/16N1m2tPeK/",
-        "instagram": "",
-        "linkedin": ""
+        "facebook": "https://www.facebook.com/p/Shea-More-100063628328208/",
+        "instagram": "https://www.instagram.com/sheaandmore/?hl=en",
+        "linkedin": "",
+        "twitter": "https://x.com/sheaandmor"
       }
     },
     {
@@ -910,14 +911,14 @@
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@ofinonatural?_t=ZM-8vTPoMAs23J&_r=1",
-        "facebook": "https://www.facebook.com/share/12MSMKqXE7i/",
-        "instagram": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/ofinonaturals/?hl=en",
         "linkedin": ""
       }
     },
     {
       "id": 31,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/whispers-from-salone.png?v=1749683469871",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Whispers%20from%20Salone.jpg?v=1749961047636",
       "name": "Whispers From Salone",
       "description": "At 'Whispers From Salone' our Vision is to celebrate the beauty of art, culture, and sustainability. Our artistic souvenirs not only capture the essence of our nation's rich heritage but also embody our commitment to environmental consciousness.",
       "sector": 3,
@@ -939,9 +940,9 @@
         "phone": "099444449"
       },
       "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@whispers.from.salone?_t=ZM-8vTPyVShiIZ&_r=1",
+        "tiktok": "https://www.tiktok.com/@whispers.from.salone?lang=it-IT",
         "facebook": "",
-        "instagram": "",
+        "instagram": "https://www.instagram.com/whispers.from.salone/",
         "linkedin": ""
       }
     },
@@ -965,13 +966,13 @@
       "disabilityInclusion": "No",
       "businessAddress": "",
       "contactDetails": {
-        "email": "",
+        "email": "ninascoffeelove@gmail.com",
         "phone": "076627514"
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@ninascoffeelove20?_t=ZM-8vTPSKiLXpG&_r=1",
-        "facebook": "https://www.facebook.com/share/17iYH5BAsV/",
-        "instagram": "",
+        "facebook": "https://www.facebook.com/NinasCoffeeLove/",
+        "instagram": "https://www.instagram.com/ninascoffeelove/",
         "linkedin": ""
       }
     },
@@ -995,12 +996,12 @@
       "disabilityInclusion": "No",
       "businessAddress": "Freetown",
       "contactDetails": {
-        "email": "",
-        "phone": "",
+        "email": "ankarabydex@gmail.com",
+        "phone": "23279646432",
         "website": "http://www.ankarabydex.com"
       },
       "socialMediaLinks": {
-        "tiktok": "",
+        "tiktok": "https://www.tiktok.com/@ankarabydex",
         "facebook": "https://facebook.com/AnkarabyDex",
         "instagram": "https://instagram.com/ankara_by_dex",
         "linkedin": ""
@@ -1008,7 +1009,7 @@
     },
     {
       "id": 34,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/franbeck-designs.png?v=1749682967331",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/FranBeck.png?v=1749961612071",
       "name": "FranBeck Designs",
       "description": "FranBeck Designs is a female-owned clothing brand that designs and produces a variety of clothes for men, women, and children. They also produce customized clothing that meets the specifications of their special clients.",
       "sector": 9,
@@ -1027,8 +1028,8 @@
       "disabilityInclusion": "No",
       "businessAddress": "Freetown",
       "contactDetails": {
-        "email": "",
-        "phone": "",
+        "email": "franbeckdesigns@gmail.com",
+        "phone": "23277934070",
         "website": "http://www.franbeckdesigns.sl"
       },
       "socialMediaLinks": {
@@ -1040,7 +1041,7 @@
     },
     {
       "id": 35,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/DreamTrim%20Couture.png?v=1749961941505",
       "name": "Dream Trim Couture",
       "description": "Dream Trim Couture is a female-owned indigenous fashion company that sources, designs, and retails apparel and clothing accessories for men and women of all ages. the business was established in 2021 and has been doing extremely well in producing high-quality products and meeting customers' satisfaction.",
       "sector": 9,
@@ -1056,11 +1057,11 @@
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "",
+      "businessAddress": "31 dundas Street by Charles Street",
       "contactDetails": {
         "website": "http://www.dreamtrimcouture.com",
-        "email": "",
-        "phone": ""
+        "email": "dreamtrimcouture@gmail.com",
+        "phone": "23278306733"
       },
       "socialMediaLinks": {
         "tiktok": "",
@@ -1102,7 +1103,7 @@
     },
     {
       "id": 37,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Ballanta%20Logo.png?v=1749962173909",
       "name": "Ballanta Academy of Music and Performing Arts (BAMPA)",
       "description": "Ballanta Academy of Music and Performing Arts (BAMPA) is a music and performing arts school giving tuition on various musical instruments, organizing events to showcase community talents, and consultation on cultural arts matters nationally and internationally. We provide education for people of all ages who wish to pursue the musical and dance arts. There is currently no other institution of this nature in the country. We also provide advice and support for musical events organized by other entities. We organize workshops, competitions, concerts, and festivals. It is the only private institution involved in the research of indigenous musical arts in the country.",
       "sector": 14,
@@ -1118,11 +1119,11 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
+      "businessAddress": "27 Liverpool Street, Freetown, Sierra Leone",
       "contactDetails": {
         "website": "www.ballantaacademy.org",
-        "email": "",
-        "phone": ""
+        "email": "ballanta.info@gmail.com",
+        "phone": "23230632671"
       },
       "socialMediaLinks": {
         "tiktok": "",
@@ -1133,7 +1134,7 @@
     },
     {
       "id": 38,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Eminence%20Africa.jpeg?v=1749962267687",
       "name": "Eminence Africa",
       "description": "Eminence Africa is a dynamic and innovative multimedia, marketing, and communications company. The company is dedicated to amplifying our clients' visions and helping them achieve their goals in an ever-evolving digital landscape, actualizing imaginative ideas and flourishing brands in the limelight.",
       "sector": 13,
@@ -1152,19 +1153,20 @@
       "businessAddress": "Pa Demba Road, Freetown",
       "contactDetails": {
         "website": "http://www.eminenceafrica.com",
-        "phone": "",
-        "email": ""
+        "phone": "23230200555",
+        "email": "info@eae-sl.com"
       },
       "socialMediaLinks": {
         "tiktok": "",
         "facebook": "https://facebook.com/EminenceAfricaHoldingCompany",
         "instagram": "https://instagram.com/eminence_africa",
-        "linkedin": ""
+        "linkedin": "",
+        "twitter": "https://x.com/EminenceAfrica"
       }
     },
     {
       "id": 39,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Fashion%20One.jpg?v=1749962410511",
       "name": "Fashion One SL Ltd",
       "description": "FASHION ONE (SL) INCUBATION HUB LIMITED is a wholesale tailoring company in Sierra Leone. We cater for men, women and children's clothing on a large scale including weddings, funerals, sports, school uniforms etc. We also help to empower youth through the tailoring training that we offer to young boys and girls in Freetown. Having high quality tailoring service in Sierra Leone is a challenge because of a shortage of properly skilled staff. We are helping to solve this through our training initiative.",
       "sector": 9,
@@ -1181,14 +1183,14 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "Yes",
-      "businessAddress": "65 Main Street, Freetown",
+      "businessAddress": "86b main road Congo town, Freetown, Sierra Leone",
       "contactDetails": {
-        "email": "",
-        "phone": "",
+        "email": "medbwhite0@gmail.com",
+        "phone": "23279324822",
         "website": ""
       },
       "socialMediaLinks": {
-        "tiktok": "",
+        "tiktok": "https://www.tiktok.com/discover/fashion-one-sierra-leone",
         "facebook": "https://www.facebook.com/share/1AEP56bjEV/?mibextid=wwXIfr",
         "instagram": "https://instagram.com/fashionone",
         "linkedin": ""
@@ -1212,15 +1214,15 @@
       "revenueBracket": "$10,000 - $50,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "",
+      "businessAddress": "Ben During Drive, New Jersey, Makama, Makeni",
       "contactDetails": {
         "website": "",
-        "email": "",
-        "phone": ""
+        "email": "info@ncihsl.com",
+        "phone": "23230593797"
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/p/Next-ChanceBPPE-Innovation-Hub-100083079316699",
         "instagram": "",
         "linkedin": ""
       }
@@ -1243,15 +1245,15 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "",
+      "businessAddress": "89 Fort street Circular road",
       "contactDetails": {
         "website": "",
-        "email": "",
-        "phone": ""
+        "email": "girlsbehinthelens20@gmail.com",
+        "phone": "23278886413"
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/p/Girls-Behind-The-Lens-100067105243393/",
         "instagram": "https://www.instagram.com/girls_behind_the_lens?igsh=anE3dXV2Z250Nmdz",
         "linkedin": ""
       }
@@ -1259,8 +1261,8 @@
     {
       "id": 43,
       "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/miimanu-couture.png?v=1749683356285",
-      "name": "Miimanu Couture Fashion house",
-      "description": "Miimanu Couture Fashion house is a business that designs luxury garments as well as general tailoring and designs for the public. The business has expanded into large-scale productions of official uniforms for various institutions such as hotels, private establishments, government ministries, and hospitals. Miimanu Couture produces various types of cuts and sews products, across numerous categories including corporate wear, menswear, womenswear, casuals, and value additions like replacement, prints, handwork, and embroidery. We have trained machinists specialized in manufacturing woven garments. Our production scale has moved from medium to large scale with an improved turnaround time. We have a strong and loyal fanbase and the feedback from our customers has been very positive.",
+      "name": "Miimanu Couture",
+      "description": "Miimanu Couture is a business that designs luxury garments as well as general tailoring and designs for the public. The business has expanded into large-scale productions of official uniforms for various institutions such as hotels, private establishments, government ministries, and hospitals. Miimanu Couture produces various types of cuts and sews products, across numerous categories including corporate wear, menswear, womenswear, casuals, and value additions like replacement, prints, handwork, and embroidery. We have trained machinists specialized in manufacturing woven garments. Our production scale has moved from medium to large scale with an improved turnaround time. We have a strong and loyal fanbase and the feedback from our customers has been very positive.",
       "sector": 9,
       "ageOfOwner": 39,
       "genderOfOwner": "Female",
@@ -1278,18 +1280,19 @@
       "contactDetails": {
         "website": "",
         "email": "",
-        "phone": ""
+        "phone": "23299574272"
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/MiimanuCoutureFashion/about",
         "instagram": "https://www.instagram.com/miimanu_?igsh=bXJndGJoZDRoZXd4",
-        "linkedin": ""
+        "linkedin": "",
+        "twitter": "https://x.com/julianasongu"
       }
     },
     {
       "id": 44,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Mindokathie.jpeg?v=1749963215863",
       "name": "Mindokatie",
       "description": "Mindokatie is a recycling business that recycles waste plastics into bricks and paving tiles. Since 2018 Mindokatie has been serving the communities within its reach. These communities have a very high level of waste management and flooding problems. Mindokatie Salone has made a lot of gains in the fight against flooding challenges by recycling plastic waste into pavement blocks also known as recycled paving bricks for building pavements. The recycled paving bricks provide an additional solution which is low-cost building materials.",
       "sector": 5,
@@ -1313,14 +1316,14 @@
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/profile.php?id=100076617241155",
         "instagram": "",
         "linkedin": ""
       }
     },
     {
       "id": 45,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/MuminiFashion%20PNG%20.png?v=1749964052277",
       "name": "Mumini Fashion Empire",
       "description": "Mumini Fashion Empire is a fashion house that specializes in creating ready-to-wear men and bespoke ceremonial dresses for both men and women. We offer a wide range of dresses for different occasions, including weddings, naming ceremonies, birthday parties, and formal events. Our mission is to provide high-quality, stylish dresses that make our customers feel confident, elegant, and empowered. The business was founded by my grandfather and then my father who then handed it over to me and my twin siblings in 2012. Mumini is a generational business that has been in the fashion industry for over 60 years since its inception. We have established ourselves as a trusted and reputable brand. Our team consists of the creative director, experienced tailors, stylists, and an office assistant who work closely with our customers to understand their unique needs and preferences.",
       "sector": 9,
@@ -1336,22 +1339,22 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "",
+      "businessAddress": "36 Main Motor Road, Congo Cross. Turay Building, Freetown, Sierra Leone",
       "contactDetails": {
         "website": "",
-        "email": "",
-        "phone": ""
+        "email": "akmumini@gmail.com",
+        "phone": "(076)779755"
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/muminifashionempire/",
         "instagram": "https://www.instagram.com/mumini_fashion?igsh=ZWVyM2ZnNW9xOGM4",
         "linkedin": ""
       }
     },
     {
       "id": 47,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Shekam%20Beiquettes.jpg?v=1749964880207",
       "name": "Shekam Briquette Making Enterprise",
       "description": "Shekam Briquette Making Enterprise transforms organic waste into briquettes for cooking in households and commercial industries. The product serves as a more affordable source of energy, which also provides and promotes clean and healthy living conditions for communities in Sierra Leone.",
       "sector": 5,
@@ -1476,9 +1479,9 @@
     },
     {
       "id": 51,
-      "logo": "",
-      "name": "Raitu’s Stitches",
-      "description": "Raitu’s Stitches is a fashion and textile brand known for its handcrafted garments, custom tailoring, and Afro-inspired collections. Using locally sourced fabrics and intricate detailing, the startup offers stylish, high-quality clothing for men and women. Raitu’s Stitches promotes slow fashion, empowering local artisans while delivering elegance and cultural authenticity.",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Riatu's%20Stitches.jpg?v=1749965130474",
+      "name": "Riatu’s Stitches",
+      "description": "Riatu’s Stitches is a fashion and textile brand known for its handcrafted garments, custom tailoring, and Afro-inspired collections. Using locally sourced fabrics and intricate detailing, the startup offers stylish, high-quality clothing for men and women. Riatu’s Stitches promotes slow fashion, empowering local artisans while delivering elegance and cultural authenticity.",
       "sector": 9,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
@@ -1492,15 +1495,15 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "",
+      "businessAddress": "Gloucester , Freetown, Sierra Leone",
       "contactDetails": {
         "website": "",
-        "phone": "",
-        "email": ""
+        "phone": "23276753666",
+        "email": "riatufak@gmail.com"
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/profile.php?id=100064036511912",
         "instagram": "",
         "linkedin": ""
       }
@@ -1539,8 +1542,8 @@
     {
       "id": 53,
       "logo": "",
-      "name": "Motel Creative Park (Tonkolili District)",
-      "description": "A dynamic open-field entertainment hub, Motel Creative Park provides a space for young creatives to showcase their talents in music, art, and performance. By fostering creativity and offering a platform for emerging artists, this startup is transforming Tonkolili into a hotspot for cultural expression.",
+      "name": "Sandra Creative Theatre",
+      "description": "A dynamic open-field entertainment hub, Sandra Creative Theatre provides a space for young creatives to showcase their talents in music, art, and performance. By fostering creativity and offering a platform for emerging artists, this startup is transforming Tonkolili into a hotspot for cultural expression.",
       "sector": 6,
       "ageOfOwner": 43,
       "genderOfOwner": "Male",
@@ -1585,17 +1588,18 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Registered",
       "disabilityInclusion": "No",
-      "businessAddress": "",
+      "businessAddress": "74 Campbell St. Freetown",
       "contactDetails": {
         "website": "",
-        "phone": "",
-        "email": ""
+        "phone": "23278581555",
+        "email": "info@kupaamedia.com"
       },
       "socialMediaLinks": {
         "tiktok": "",
-        "facebook": "",
-        "instagram": "",
-        "linkedin": ""
+        "facebook": "https://www.facebook.com/kupaamedia",
+        "instagram": "https://www.instagram.com/Kupaamedia",
+        "linkedin": "",
+        "twitter": "https://x.com/kupaamedia"
       }
     },
     {
@@ -1650,8 +1654,8 @@
       "businessAddress": "Freetown",
       "contactDetails": {
         "website": "",
-        "phone": "",
-        "email": ""
+        "phone": "23299875504",
+        "email": "meliciabarrie@gmail.com"
       },
       "socialMediaLinks": {
         "tiktok": "https://vm.tiktok.com/ZMBct3e9a/",
@@ -1748,7 +1752,7 @@
         "email": ""
       },
       "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@bintajabet1?_t=ZM-8vwLclAxF7m&_r=1",
+        "tiktok": "https://www.tiktok.com/@bintaqueen1",
         "facebook": "",
         "instagram": "",
         "linkedin": ""
@@ -1779,15 +1783,15 @@
         "email": ""
       },
       "socialMediaLinks": {
-        "tiktok": "https://vm.tiktok.com/ZMBc7Nr6t/",
+        "tiktok": "",
         "facebook": "",
-        "instagram": "https://www.instagram.com/iamkarry001?igsh=MWYzMjQ3N3o1eGNmNQ==",
+        "instagram": "",
         "linkedin": ""
       }
     },
     {
       "id": 62,
-      "logo": "",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/Viola's%20Stiches%20%26%20Design.jpg?v=1749965914928",
       "name": "Viola’s Stitches",
       "description": "A clothing brand dedicated to craftsmanship, Viola’s Stitches creates trendy and durable fashion wear, catering to both casual and formal style needs.",
       "sector": 9,
@@ -1803,11 +1807,11 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
+      "businessAddress": "Freetown Rd, Freetown, Sierra Leone, Freetown, Sierra Leone",
       "contactDetails": {
         "website": "",
-        "phone": "",
-        "email": ""
+        "phone": "23276776881",
+        "email": "violasstitchesdesign@gmail.com"
       },
       "socialMediaLinks": {
         "tiktok": "https://www.tiktok.com/@violasstitchesdesign?_t=ZM-8vwP74G46on&_r=1",
@@ -1841,9 +1845,9 @@
         "email": ""
       },
       "socialMediaLinks": {
-        "tiktok": "https://www.tiktok.com/@tigiedaema2?_t=ZM-8vwPp0uFFRf&_r=1",
+        "tiktok": "",
         "facebook": "",
-        "instagram": "https://www.instagram.com/i_am_tigie_daema?igsh=NTZyM3gxa3lqOHNt",
+        "instagram": "",
         "linkedin": ""
       }
     },
@@ -1865,11 +1869,11 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
+      "businessAddress": "55 Regent Road Wilberforce Village, Freetown, Sierra Leone",
       "contactDetails": {
         "website": "",
-        "phone": "",
-        "email": ""
+        "phone": "23234047717",
+        "email": "clamatadesigns@gmail.com"
       },
       "socialMediaLinks": {
         "tiktok": "",
@@ -1880,7 +1884,7 @@
     },
     {
       "id": 65,
-      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/d-label.png?v=1748348434181",
+      "logo": "https://cdn.glitch.global/8eba04eb-779f-4c8b-adcf-48d8c877ce67/D-Label.jpeg?v=1749966269893",
       "name": "D-Label",
       "description": "Focused exclusively on women’s fashion, D-Label offers trendy clothing and accessories designed to empower and inspire confidence.",
       "sector": 9,
@@ -1896,10 +1900,10 @@
       "revenueBracket": "$50,000 - $100,000",
       "registrationStatus": "Unregistered",
       "disabilityInclusion": "No",
-      "businessAddress": "Freetown",
+      "businessAddress": "Girl school Junction, 15c Main Motor Road Congo Cross, Freetown",
       "contactDetails": {
         "website": "",
-        "phone": "",
+        "phone": "232032500258",
         "email": ""
       },
       "socialMediaLinks": {
